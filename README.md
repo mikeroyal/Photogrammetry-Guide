@@ -26,7 +26,7 @@
 
 5. [Game Development](https://github.com/mikeroyal/Photogrammetry-Guide#game-development)
 
-6. [Machine Learning](https://github.com/mikeroyal/Photogrammetry-Guide# machine-learning)
+6. [Machine Learning](https://github.com/mikeroyal/Photogrammetry-Guide#machine-learning)
 
 7. [Python Development](https://github.com/mikeroyal/Photogrammetry-Guide#python-development)
 
