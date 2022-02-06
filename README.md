@@ -62,6 +62,8 @@
 
 [Introduction to Photogrammetry (Cyrill Stachniss, 2021)](https://www.youtube.com/watch?v=SyB7Wg1e62A&list=RDCMUCi1TC2fLRvgBQNe-T4dp8Eg) (EN) Lectures of the Photogrammetry courses for BSc students taught by Cyrill Stachniss at the University of Bonn, Germany
 
+[Photogrammetric Computer Vision - Course Introduction (Cyrill Stachniss, 2020)](https://www.youtube.com/watch?v=X7AghhqMUm8&list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX) (EN) 
+
 
 # Photogrammetry Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Photogrammetry-Guide#table-of-contents)
