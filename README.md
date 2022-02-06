@@ -60,7 +60,7 @@
 
 [ASPRS Certification Program](https://www.asprs.org/certification)
 
-[Lecture: Photogrammetry I&II | Youtube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) (EN) Lectures of the Photogrammetry I & II courses for BSc students taught by Cyrill Stachniss at the University of Bonn, Germany
+[Introduction to Photogrammetry (Cyrill Stachniss, 2021)](https://www.youtube.com/watch?v=SyB7Wg1e62A&list=RDCMUCi1TC2fLRvgBQNe-T4dp8Eg) (EN) Lectures of the Photogrammetry courses for BSc students taught by Cyrill Stachniss at the University of Bonn, Germany
 
 
 # Photogrammetry Tools, Libraries, and Frameworks
