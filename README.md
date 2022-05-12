@@ -42,6 +42,8 @@
 
 [Terrestrial(Close-range) photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is when images are captured using a handheld camera or with a camera mounted to a tripod. The output of this method is not to create topographic maps, but rather to make 3D models of a smaller object.
 
+### Training & Courses
+
 [Top Photogrammetry Courses Online | Udemy](https://www.udemy.com/topic/photogrammetry/)
 
 [Photogrammetry With Drones: In Mapping Technology | Udemy](https://www.udemy.com/course/essentials-of-photogrammetry/)
@@ -59,6 +61,18 @@
 [Photogrammetry Training | Deep3D Photogrammetry](https://deep3d.co.uk/photogrammetry-training/)
 
 [ASPRS Certification Program](https://www.asprs.org/certification)
+
+### Books/eBooks
+
+[73 Best Photogrammetry Books of All Time - BookAuthority](https://bookauthority.org/books/best-photogrammetry-books)
+
+[Photogrammetry E-books/tutorials | GIS Resources](https://gisresources.com/photogrammetry-e-books/)
+
+[Create photorealistic game assets with Unity Engine(eBook)](https://unity.com/solutions/photogrammetry)
+
+[Get ready for Photogrammetry: A beginner’s guide to scan clean-up with Unity ArtEngine (PDF)](https://content.cdntwrk.com/files/aT0xNDQ5MzA2JnY9MSZpc3N1ZU5hbWU9Z2V0LXJlYWR5LWZvci1waG90b2dyYW1tZXRyeSZjbWQ9ZCZzaWc9ZWZmOGJkNjJlOTA1Yzc2ZGFmMTc3MjVmODMzNDBjNTc%253D)
+
+### YouTube Tutorials
 
 [Introduction to Photogrammetry (Cyrill Stachniss, 2021)](https://www.youtube.com/watch?v=SyB7Wg1e62A&list=RDCMUCi1TC2fLRvgBQNe-T4dp8Eg) (EN) Lectures of the Photogrammetry courses for BSc students taught by Cyrill Stachniss at the University of Bonn, Germany
 
