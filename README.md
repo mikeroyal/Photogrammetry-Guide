@@ -64,13 +64,22 @@
 
 ### Books/eBooks
 
-[73 Best Photogrammetry Books of All Time - BookAuthority](https://bookauthority.org/books/best-photogrammetry-books)
+- [73 Best Photogrammetry Books of All Time - BookAuthority](https://bookauthority.org/books/best-photogrammetry-books)
 
-[Photogrammetry E-books/tutorials | GIS Resources](https://gisresources.com/photogrammetry-e-books/)
+- [Photogrammetry E-books/tutorials | GIS Resources](https://gisresources.com/photogrammetry-e-books/)
 
-[Create photorealistic game assets with Unity Engine(eBook)](https://unity.com/solutions/photogrammetry)
+- [Create photorealistic game assets with Unity Engine(eBook)](https://unity.com/solutions/photogrammetry)
 
-[Get ready for Photogrammetry: A beginner’s guide to scan clean-up with Unity ArtEngine (PDF)](https://content.cdntwrk.com/files/aT0xNDQ5MzA2JnY9MSZpc3N1ZU5hbWU9Z2V0LXJlYWR5LWZvci1waG90b2dyYW1tZXRyeSZjbWQ9ZCZzaWc9ZWZmOGJkNjJlOTA1Yzc2ZGFmMTc3MjVmODMzNDBjNTc%253D)
+- [Get ready for Photogrammetry: A beginner’s guide to scan clean-up with Unity ArtEngine (PDF)](https://content.cdntwrk.com/files/aT0xNDQ5MzA2JnY9MSZpc3N1ZU5hbWU9Z2V0LXJlYWR5LWZvci1waG90b2dyYW1tZXRyeSZjbWQ9ZCZzaWc9ZWZmOGJkNjJlOTA1Yzc2ZGFmMTc3MjVmODMzNDBjNTc%253D)
+- [Introduction to Modern Photogrammetry by MIKHAIL EDWARD](https://www.amazon.com/Introduction-Modern-Photogrammetry-Edward-Mikhail/dp/8126539984/ref=sr_1_5?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654415794&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-5)
+ - [UAV Photogrammetry and Remote Sensing by Fernando Carvajal-Ramírez, Francisco Agüera-Vega](https://www.amazon.com/Photogrammetry-Remote-Sensing-Fernando-Carvajal-Ram%C3%ADrez/dp/3036514546/ref=sr_1_4?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654415794&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-4)
+ - [Elements of Photogrammetry with Application in GIS, Fourth Editionby Paul Wolf, Bon DeWitt](https://www.amazon.com/Elements-Photogrammetry-Application-GIS-Fourth/dp/0071761128/ref=sr_1_2?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654415794&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-2)
+ - [OpenDroneMap: The Missing Guide: A Practical Guide To Drone Mapping Using Free and Open Source Software
+by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping-Software/dp/1086027566/ref=sr_1_16?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654415923&refinements=p_72%3A1250221011&rnid=1250219011&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-16)
+ - [Digital Photogrammetry by Yves Egels and Michel Kasser](https://www.amazon.com/Michel-Kasser/e/B001H6L0CS?ref=sr_ntt_srch_lnk_19&qid=1654415923&sr=1-19)
+ - [Digital Photogrammetry: Theory and Applications by Wilfried Linder ](https://www.amazon.com/Digital-Photogrammetry-Applications-Wilfried-Linder-ebook/dp/B00FBVV9VM/ref=sr_1_22?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654415923&refinements=p_72%3A1250221011&rnid=1250219011&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-22)
+ - [Drone Technology in Architecture, Engineering and Construction: A Strategic Guide to Unmanned Aerial Vehicle Operation and Implementation by Daniel Tal and Jon Altschuld ](https://www.amazon.com/Drone-Technology-Architecture-Engineering-Construction/dp/1119545889/ref=sr_1_35?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654416094&refinements=p_72%3A1250221011&rnid=1250219011&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-35)
+ 
 
 ### YouTube Tutorials
 
