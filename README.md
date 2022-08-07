@@ -16,7 +16,10 @@
 
 # Table of Contents
 
-1. [Photogrammetry Learning Resources](https://github.com/mikeroyal/Photogrammetry-Guide#photogrammetry-learning-resources)
+1. [Getting Started with Photogrammetry](https://github.com/mikeroyal/Photogrammetry-Guide#getting-started-with-photogrammetry)
+    - [Certifications & Courses](https://github.com/mikeroyal/Photogrammetry-Guide#Certifications--Courses)
+    - [Books/eBooks](https://github.com/mikeroyal/Photogrammetry-Guide#BookseBooks)
+    - [YouTube Tutorials](https://github.com/mikeroyal/Photogrammetry-Guide#YouTube-Tutorials)
 
 2. [Photogrammetry Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Photogrammetry-Guide#photogrammetry-tools-libraries-and-frameworks)
 
@@ -33,8 +36,9 @@
 8. [R Development](https://github.com/mikeroyal/Photogrammetry-Guide#r-development)
 
 
-# Photogrammetry Learning Resources
-[Back to the Top](https://github.com/mikeroyal/Photogrammetry-Guide#table-of-contents)
+# Getting Started with Photogrammetry 
+
+[Back to the Top](#table-of-contents)
 
 [Photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is the art and science of extracting 3D information from photographs. The process involves taking overlapping photographs of an object, structure, or space, and converting them into 2D or 3D digital models. Photogrammetry is often used by surveyors, architects, engineers, and contractors to create topographic maps, meshes, point clouds, or drawings based on the real-world.
 
@@ -42,27 +46,29 @@
 
 [Terrestrial(Close-range) photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is when images are captured using a handheld camera or with a camera mounted to a tripod. The output of this method is not to create topographic maps, but rather to make 3D models of a smaller object.
 
-### Training & Courses
+### Certifications & Courses
+[Back to the Top](#table-of-contents)
 
-[Top Photogrammetry Courses Online | Udemy](https://www.udemy.com/topic/photogrammetry/)
+ - [Top Photogrammetry Courses Online | Udemy](https://www.udemy.com/topic/photogrammetry/)
 
-[Photogrammetry With Drones: In Mapping Technology | Udemy](https://www.udemy.com/course/essentials-of-photogrammetry/)
+ - [Photogrammetry With Drones: In Mapping Technology | Udemy](https://www.udemy.com/course/essentials-of-photogrammetry/)
 
-[Introduction to Photogrammetry Course | Coursera](https://www.coursera.org/lecture/aerial-photography-with-uav/introduction-to-photogrammetry-KyP30)
+ - [Introduction to Photogrammetry Course | Coursera](https://www.coursera.org/lecture/aerial-photography-with-uav/introduction-to-photogrammetry-KyP30)
 
-[Photogrammetry Online Classes and Training | Linkedin Learning](https://www.linkedin.com/learning/search?keywords=Photogrammetry&upsellOrderOrigin=default_guest_learning&trk=learning-course_learning-search-bar_search-submit)
+ - [Photogrammetry Online Classes and Training | Linkedin Learning](https://www.linkedin.com/learning/search?keywords=Photogrammetry&upsellOrderOrigin=default_guest_learning&trk=learning-course_learning-search-bar_search-submit)
 
-[Pix4D training and certification for mapping professionals](https://training.pix4d.com/)
+ - [Pix4D training and certification for mapping professionals](https://training.pix4d.com/)
 
-[Drone mapping and photogrammetry workshops with Pix4D](https://training.pix4d.com/pages/workshops)
+ - [Drone mapping and photogrammetry workshops with Pix4D](https://training.pix4d.com/pages/workshops)
 
-[Digital Photogrammetric Systems Course | Purdue Online Learning](https://engineering.purdue.edu/online/courses/digital-photogrammetric-systems)
+ - [Digital Photogrammetric Systems Course | Purdue Online Learning](https://engineering.purdue.edu/online/courses/digital-photogrammetric-systems)
 
-[Photogrammetry Training | Deep3D Photogrammetry](https://deep3d.co.uk/photogrammetry-training/)
+ - [Photogrammetry Training | Deep3D Photogrammetry](https://deep3d.co.uk/photogrammetry-training/)
 
-[ASPRS Certification Program](https://www.asprs.org/certification)
+ - [ASPRS Certification Program](https://www.asprs.org/certification)
 
 ### Books/eBooks
+[Back to the Top](#table-of-contents)
 
 - [73 Best Photogrammetry Books of All Time - BookAuthority](https://bookauthority.org/books/best-photogrammetry-books)
 
@@ -71,21 +77,44 @@
 - [Create photorealistic game assets with Unity Engine(eBook)](https://unity.com/solutions/photogrammetry)
 
 - [Get ready for Photogrammetry: A beginner’s guide to scan clean-up with Unity ArtEngine (PDF)](https://content.cdntwrk.com/files/aT0xNDQ5MzA2JnY9MSZpc3N1ZU5hbWU9Z2V0LXJlYWR5LWZvci1waG90b2dyYW1tZXRyeSZjbWQ9ZCZzaWc9ZWZmOGJkNjJlOTA1Yzc2ZGFmMTc3MjVmODMzNDBjNTc%253D)
+
 - [Introduction to Modern Photogrammetry by MIKHAIL EDWARD](https://www.amazon.com/Introduction-Modern-Photogrammetry-Edward-Mikhail/dp/8126539984/ref=sr_1_5?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654415794&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-5)
+
  - [UAV Photogrammetry and Remote Sensing by Fernando Carvajal-Ramírez, Francisco Agüera-Vega](https://www.amazon.com/Photogrammetry-Remote-Sensing-Fernando-Carvajal-Ram%C3%ADrez/dp/3036514546/ref=sr_1_4?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654415794&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-4)
+ 
  - [Elements of Photogrammetry with Application in GIS, Fourth Editionby Paul Wolf, Bon DeWitt](https://www.amazon.com/Elements-Photogrammetry-Application-GIS-Fourth/dp/0071761128/ref=sr_1_2?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654415794&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-2)
+ 
  - [OpenDroneMap: The Missing Guide: A Practical Guide To Drone Mapping Using Free and Open Source Software
 by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping-Software/dp/1086027566/ref=sr_1_16?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654415923&refinements=p_72%3A1250221011&rnid=1250219011&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-16)
+
  - [Digital Photogrammetry by Yves Egels and Michel Kasser](https://www.amazon.com/Michel-Kasser/e/B001H6L0CS?ref=sr_ntt_srch_lnk_19&qid=1654415923&sr=1-19)
+ 
  - [Digital Photogrammetry: Theory and Applications by Wilfried Linder ](https://www.amazon.com/Digital-Photogrammetry-Applications-Wilfried-Linder-ebook/dp/B00FBVV9VM/ref=sr_1_22?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654415923&refinements=p_72%3A1250221011&rnid=1250219011&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-22)
+ 
  - [Drone Technology in Architecture, Engineering and Construction: A Strategic Guide to Unmanned Aerial Vehicle Operation and Implementation by Daniel Tal and Jon Altschuld ](https://www.amazon.com/Drone-Technology-Architecture-Engineering-Construction/dp/1119545889/ref=sr_1_35?crid=2ZTDXM9NZX73K&keywords=Photogrammetry&qid=1654416094&refinements=p_72%3A1250221011&rnid=1250219011&s=books&sprefix=photogrammetry%2Cstripbooks%2C157&sr=1-35)
  
+  - [Getting to Know ArcGIS Desktop 10.8 by Michael Law and Amy Collins](https://www.amazon.com/Getting-Know-ArcGIS-Desktop-10-8/dp/1589485777/ref=sr_1_2?keywords=Getting+to+Know+ArcGIS&qid=1659566233&sr=8-2)
+ 
+ - [Getting to Know ArcGIS Pro 2.8 by Michael Law and Amy Collins](https://www.amazon.com/Getting-Know-ArcGIS-Pro-2-8/dp/158948701X/ref=sr_1_5?keywords=Getting+to+Know+ArcGIS&qid=1659566233&sr=8-5)
+ 
+ - [Getting to Know Web GIS by Pinde Fu](https://www.amazon.com/Getting-Know-Web-GIS-Pinde-ebook/dp/B09Y68TXGF/ref=sr_1_3?crid=303PWBITFO5JT&keywords=web+GIS&qid=1659566920&sprefix=web+gis%2Caps%2C200&sr=8-3)
+ 
+ - [Geographical Data Science and Spatial Data Analysis: An Introduction in R (Spatial Analytics and GIS) by Lex Comber and Chris Brunsdon](https://www.amazon.com/Geographical-Data-Science-Spatial-Analysis/dp/1526449366/ref=sr_1_3?crid=38CZ6KLAF9GQ0&keywords=An+Introduction+to+R+for+Spatial+Analysis+and+Mapping&qid=1659566504&sprefix=an+introduction+to+r+for+spatial+analysis+and+mapping%2Caps%2C152&sr=8-3)
+ 
+ - [Fuzzy Machine Learning Algorithms for Remote Sensing Image Classification by Anil Kumar , Priyadarshi Upadhyay, et al.](https://www.amazon.com/Machine-Learning-Algorithms-Sensing-Classification-ebook/dp/B08C27QSSW/ref=sr_1_fkmr0_2?crid=O5TAKPDUTE86&keywords=Imagery+and+GIS%3A+Best+Practices+for+Extracting+Information+from+Imagery&qid=1659566587&sprefix=imagery+and+gis+best+practices+for+extracting+information+from+imagery%2Caps%2C159&sr=8-2-fkmr0)
+ 
+ - [GIS Applications in Agriculture, Volume Four by Tom Mueller, Gretchen F. Sassenrath](https://www.amazon.com/GIS-Applications-Agriculture-Four-Mueller/dp/1032098805/ref=sr_1_fkmr1_1?crid=O5TAKPDUTE86&keywords=Imagery+and+GIS%3A+Best+Practices+for+Extracting+Information+from+Imagery&qid=1659566587&sprefix=imagery+and+gis+best+practices+for+extracting+information+from+imagery%2Caps%2C159&sr=8-1-fkmr1)
+ 
+ - [Applications of Small Unmanned Aircraft Systems: Best Practices and Case Studies by J.B. Sharma](https://www.amazon.com/Applications-Small-Unmanned-Aircraft-Systems/dp/0367199246/ref=sr_1_fkmr1_2?crid=O5TAKPDUTE86&keywords=Imagery+and+GIS%3A+Best+Practices+for+Extracting+Information+from+Imagery&qid=1659566587&sprefix=imagery+and+gis+best+practices+for+extracting+information+from+imagery%2Caps%2C159&sr=8-2-fkmr1)
+ 
+ - [Free GIS Books](https://www.gislounge.com/free-gis-books/)
 
 ### YouTube Tutorials
+[Back to the Top](#table-of-contents)
 
-[Introduction to Photogrammetry (Cyrill Stachniss, 2021)](https://www.youtube.com/watch?v=SyB7Wg1e62A&list=RDCMUCi1TC2fLRvgBQNe-T4dp8Eg) (EN) Lectures of the Photogrammetry courses for BSc students taught by Cyrill Stachniss at the University of Bonn, Germany
+ - [Introduction to Photogrammetry (Cyrill Stachniss, 2021)](https://www.youtube.com/watch?v=SyB7Wg1e62A&list=RDCMUCi1TC2fLRvgBQNe-T4dp8Eg) (EN) Lectures of the Photogrammetry courses for BSc students taught by Cyrill Stachniss at the University of Bonn, Germany
 
-[Photogrammetric Computer Vision - Course Introduction (Cyrill Stachniss, 2020)](https://www.youtube.com/watch?v=X7AghhqMUm8&list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX) (EN) 
+ - [Photogrammetric Computer Vision - Course Introduction (Cyrill Stachniss, 2020)](https://www.youtube.com/watch?v=X7AghhqMUm8&list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX) (EN) 
 
 
 # Photogrammetry Tools, Libraries, and Frameworks
