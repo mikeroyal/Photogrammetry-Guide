@@ -66,6 +66,18 @@
  - [Photogrammetry Training | Deep3D Photogrammetry](https://deep3d.co.uk/photogrammetry-training/)
 
  - [ASPRS Certification Program](https://www.asprs.org/certification)
+ 
+ - [Blender 3 + Reality Capture 5hr. Tutorial Course, with Futuristic Movie Scene & Files](https://blendermarket.com/products/blender-3--reality-capture-cinematic-render-course-futuristic-movie-film-scene)
+  
+ - [Photogrammetry Course: Photoreal 3d With Blender And Reality Capture](https://blendermarket.com/products/photogrammetry-course)
+ 
+ - [Advanced PhotoModeler for Collision Reconstruction | LightPoint Course](https://lightpointdata.com/advanced-photogrammetry)
+ 
+ - [Motorcycle Collision Reconstruction | LightPoint Course](https://lightpointdata.com/motorcycle-collision-reconstruction)
+ 
+ - [Point Clouds in Collision Reconstruction | LightPoint Course](https://lightpointdata.com/point-clouds-in-collision-reconstruction-future)
+ 
+ - [Advanced Photogrammetry and Mapping with UAS Certificate | Michigan Tech Unviserity](https://www.mtu.edu/gradschool/programs/certificates/photogrammetry-mapping/)
 
 ### Books/eBooks
 [Back to the Top](#table-of-contents)
