@@ -184,6 +184,8 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [Regard3D](https://www.regard3d.org/) is a free and open source structure-from-motion program. It converts photos of an object, taken from different angles, into a 3D model of this object.
 
+[3D Scanner App for Mac](https://apps.apple.com/us/app/3d-scanner-app/id1419913995) is a desktop tool for processing photos and videos into 3D models using the power of Photogrammetry; which makes it perfect for 3D Design, CAD, Architecture, Games Assets, AR, VR, XR. It shares USDZ models via iMessage to let friends and family see your models in Augmented Reality.
+
 # Autodesk Development
 [Back to the Top](https://github.com/mikeroyal/Photogrammetry-Guide#table-of-contents)
 
