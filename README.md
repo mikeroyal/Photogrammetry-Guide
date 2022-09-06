@@ -162,6 +162,10 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [Multi-View Environment (MVE)](https://www.gcc.tu-darmstadt.de/home/proj/mve/) is an effort to ease the work with multi-view datasets and to support the development of algorithms based on multiple views. It features Structure from Motion, Multi-View Stereo and Surface Reconstruction. MVE is developed at the TU Darmstadt.
 
+[OpenMVG (open Multiple View Geometry)](https://github.com/openMVG/openMVG) is a photogrammtery that provides an end-to-end 3D reconstruction from images framework compounded of libraries, binaries, and pipelines. The libraries provide easy access to features like: images manipulation, features description and matching, feature tracking, camera models, multiple-view-geometry, robust-estimation, and structure-from-motion algorithms.
+
+[DroneDeploy](https://www.dronedeploy.com/) is a drone mapping software for flying your drone to using your data to create interactive maps, 3D models, videos, and more.
+
 [AliceVision](https://github.com/alicevision/AliceVision) is a Photogrammetric Computer Vision Framework which provides 3D Reconstruction and Camera Tracking algorithms. AliceVision comes up with strong software basis and state-of-the-art computer vision algorithms that can be tested, analyzed and reused.
 
 [Meshroom](https://github.com/alicevision/meshroom) is a free, open-source 3D Reconstruction Software based on the AliceVision framework.
