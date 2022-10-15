@@ -156,6 +156,16 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [Polycam](https://poly.cam/) is the world's most popular LiDAR 3D scanning app for iOS(iPhone/iPad), Web, and Android. It let's you scan the world around you with your mobile device, DSLR camera, or drone to get beautiful, accurate 3D models. 
 
+[BoofCV](https://github.com/lessthanoptimal/BoofCV) is an open source library written from scratch for real-time computer vision. Its functionality covers a range of subjects, low-level image processing, camera calibration, feature detection/tracking, structure-from-motion, fiducial detection, and recognition. 
+
+[OpenMVG (open Multiple View Geometry)](https://github.com/openMVG/openMVG) is a library for 3D Computer Vision and Structure from Motion. It's targeted for the Multiple View Geometry community.
+
+[Cesium](https://www.cesium.com/) is the foundational open platform for creating powerful 3D geospatial applications.
+
+[CesiumJS](https://cesium.com/cesiumjs/) is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.
+
+[Cesium ion](https://cesium.com/platform/cesium-ion/) is a robust, scalable, and secure platform for 3D geospatial data. Upload your content and Cesium ion will optimize it as 3D Tiles, host it in the cloud, and stream it to any device. It includes access to curated global 3D content including Cesium World Terrain, Bing Maps imagery, and Cesium OSM Buildings.
+
 [Terramodel](https://heavyindustry.trimble.com/products/terramodel) is a powerful software package for the surveyor, civil engineer or contractor who requires a CAD and design package with integrated support for raw survey data.
 
 [MicMac](https://github.com/micmacIGN/micmac) is a free and  open-source photogrammetry software tools for 3D reconstruction.
