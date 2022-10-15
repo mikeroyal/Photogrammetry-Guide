@@ -78,6 +78,8 @@
  - [Point Clouds in Collision Reconstruction | LightPoint Course](https://lightpointdata.com/point-clouds-in-collision-reconstruction-future)
  
  - [Advanced Photogrammetry and Mapping with UAS Certificate | Michigan Tech Unviserity](https://www.mtu.edu/gradschool/programs/certificates/photogrammetry-mapping/)
+ 
+ - [Cesium Certified Developer Program](https://cesium.com/learn/certifications/)
 
 ### Books/eBooks
 [Back to the Top](#table-of-contents)
