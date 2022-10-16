@@ -166,6 +166,14 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [Cesium ion](https://cesium.com/platform/cesium-ion/) is a robust, scalable, and secure platform for 3D geospatial data. Upload your content and Cesium ion will optimize it as 3D Tiles, host it in the cloud, and stream it to any device. It includes access to curated global 3D content including Cesium World Terrain, Bing Maps imagery, and Cesium OSM Buildings.
 
+[Cesium for Unreal](https://cesium.com/cesium-for-unreal/) is a tool that brings the 3D geospatial ecosystem to Unreal Engine. By combining a high-accuracy full-scale WGS84 globe, open APIs and open standards for spatial indexing such as 3D Tiles, and cloud-based real-world content from Cesium ion with Unreal Engine, this project enables a new era of 3D geospatial software.
+
+[Cesium for O3DE](https://cesium.com/platform/cesium-for-o3de/) is a tool that provides a full-scale, high-accuracy ([WGS84](https://csrc.nist.gov/glossary/term/world_geodetic_system_1984)) globe and runtime 3D Tiles engine for the open source Open 3D Engine (O3DE).
+
+[3D Tiles](https://github.com/CesiumGS/3d-tiles) is an open specification for sharing, visualizing, fusing, and interacting with massive heterogenous 3D geospatial content across desktop, web, and mobile applications.
+
+[TeleSculptor](https://telesculptor.org/) is an open source, cross-platform desktop application for photogrammetry. It was designed specifically with a focus on aerial video processing leveraging video metadata standards ([MISB 0601](https://developer.ridgerun.com/wiki/index.php/LibMISB)) for geolocation, but it can handle both images and video either with or without metadata. TeleSculptor uses structure-from-motion techniques to estimate camera parameters and a sparse set of 3D landmarks.
+
 [Terramodel](https://heavyindustry.trimble.com/products/terramodel) is a powerful software package for the surveyor, civil engineer or contractor who requires a CAD and design package with integrated support for raw survey data.
 
 [MicMac](https://github.com/micmacIGN/micmac) is a free and  open-source photogrammetry software tools for 3D reconstruction.
