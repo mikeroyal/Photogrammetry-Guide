@@ -129,6 +129,10 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
  - [Introduction to Photogrammetry (Cyrill Stachniss, 2021)](https://www.youtube.com/watch?v=SyB7Wg1e62A&list=RDCMUCi1TC2fLRvgBQNe-T4dp8Eg) (EN) Lectures of the Photogrammetry courses for BSc students taught by Cyrill Stachniss at the University of Bonn, Germany
 
  - [Photogrammetric Computer Vision - Course Introduction (Cyrill Stachniss, 2020)](https://www.youtube.com/watch?v=X7AghhqMUm8&list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX) (EN) 
+ 
+ - [Complete Meshroom Tutorial | Photogrammetry Course by Gleb Alexandrov | YouTube](https://www.youtube.com/watch?v=j3lhPKF8qjU)
+ 
+ - [Photoscanning - Camera Settings | Photogrammetry Course by Gleb Alexandrov | YouTube](https://www.youtube.com/watch?v=JLdxBtECGuc)
 
 
 # Photogrammetry Tools, Libraries, and Frameworks
