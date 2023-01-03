@@ -164,6 +164,8 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [OpenMVG (open Multiple View Geometry)](https://github.com/openMVG/openMVG) is a library for 3D Computer Vision and Structure from Motion. It's targeted for the Multiple View Geometry community.
 
+[Mapnik](http://mapnik.org/) is an open source toolkit for developing mapping applications. It uses a C++ shared library providing algorithms and patterns for spatial data access and visualization.
+
 [Cesium](https://www.cesium.com/) is the foundational open platform for creating powerful 3D geospatial applications.
 
 [CesiumJS](https://cesium.com/cesiumjs/) is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.
