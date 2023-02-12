@@ -217,6 +217,18 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [3D Scanner App for Mac](https://apps.apple.com/us/app/3d-scanner-app/id1419913995) is a desktop tool for processing photos and videos into 3D models using the power of Photogrammetry; which makes it perfect for 3D Design, CAD, Architecture, Games Assets, AR, VR, XR. It shares USDZ models via iMessage to let friends and family see your models in Augmented Reality.
 
+[Cartographer](https://github.com/cartographer-project/cartographer) is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+
+[QGroundControl (QGC)](https://github.com/mavlink/qgroundcontrol) is an intuitive and powerful ground control station (GCS) for UAVs. It provides full flight control and mission planning for any MAVLink enabled drone(Android, iOS, Mac OS, Linux, Windows), and vehicle setup for both PX4 and ArduPilot powered UAVs. 
+
+[GAAS](https://www.gaas.dev/) is an open-source program designed for fully autonomous VTOL(a.k.a flying cars) and drones. GAAS stands for Generalized Autonomy Aviation System. It provides a fully autonomous flight platform based on lidar, HD-map relocalization, path planning, and other modules for aircraft. 
+
+[Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) is developed aiming to enable quadrotor fast flight in complex unknown environments. It contains a rich set of carefully designed planning algorithms.
+
+[Paparazzi](https://github.com/paparazzi/paparazzi) is a free open source software package for Unmanned (Air) Vehicle Systems. For many years, the system has been used successfuly by hobbyists, universities and companies all over the world, on vehicles of various sizes (11.9g to 25kg). 
+
+[CARMA Platform](https://github.com/usdot-fhwa-stol/carma-platform) is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interact and cooperate with infrastructure and other vehicles through communication. 
+
 # Autodesk Development
 [Back to the Top](https://github.com/mikeroyal/Photogrammetry-Guide#table-of-contents)
 
