@@ -229,6 +229,10 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [CARMA Platform](https://github.com/usdot-fhwa-stol/carma-platform) is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interact and cooperate with infrastructure and other vehicles through communication. 
 
+[Nerfstudio](https://docs.nerf.studio/) is a tool that provides a simple API that allows for a simplified end-to-end process of creating, training, and testing NeRFs. The library supports a more interpretable implementation of NeRFs by modularizing each component. With more modular NeRFs, we hope to create a more user-friendly experience in exploring the technology. 
+
+[PyTrx](https://github.com/PennyHow/PyTrx) is a Python object-oriented toolbox created for the purpose of calculating real-world measurements from oblique images and time-lapse image series. Its primary purpose is to obtain velocities, surface areas, and distances from imagery of glacial environments.
+
 # Autodesk Development
 [Back to the Top](https://github.com/mikeroyal/Photogrammetry-Guide#table-of-contents)
 
