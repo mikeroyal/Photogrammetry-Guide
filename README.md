@@ -233,6 +233,16 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [PyTrx](https://github.com/PennyHow/PyTrx) is a Python object-oriented toolbox created for the purpose of calculating real-world measurements from oblique images and time-lapse image series. Its primary purpose is to obtain velocities, surface areas, and distances from imagery of glacial environments.
 
+[Qlone](https://www.qlone.pro/) is a photogrammetry app for creation of 3D models on mobile devices. Qlone is unique in being able to create 3D models on the mobile device without recourse to external cloud servers.
+
+[WIDAR](https://www.widar.io/) is a 3D contents creation app that allows you to scan and edit 3D models on your smartphone. Enjoy creating high-quality 3D contents, view directly on device, play in AR and post the contents on in-app community. It can also export 3D contents to use in game, VFX effect in movies, architecture, construction, AR, VR, and 3D printing.
+
+[Trnio](https://www.trnio.com/) is a tool that turns your iPhone to into a high-quality 3D scanner, using our cloud service (scans are NOT processed on your device) to convert your images into high-quality scans.
+
+[Scandy Pro](https://www.scandy.co/apps/scandy-pro) is a 3D scanner tool for iOS/iPadOS that allows users to capture full-color 3D scans. Users can save scans and export scans with different file formats (.stl, .ply, .obj, .glb, .usdz), scales (m, cm, mm, in.), and 3D editor orientations (Zbrush, Blender, Unreal, OpenGL, Maya, CRY, 3DS, Cinema4D, AutoCAD). All rendering is done on-device and there is no need to register or store files in the cloud.
+
+[AR Floorplan 3D](https://arplan3d.com/) is a measurement app, augmented reality (AR, lidar scanner) for quick room measurement. AR camera sensor technology allows to lay virtual tape measure ruler on a real-world surfaces, making measurement process and 3D floor planner creation easier and quicker. Using the device's camera sensor to sketch home, draw blueprints, build design.
+
 # Autodesk Development
 [Back to the Top](https://github.com/mikeroyal/Photogrammetry-Guide#table-of-contents)
 
