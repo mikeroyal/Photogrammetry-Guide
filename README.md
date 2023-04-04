@@ -219,6 +219,12 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [Cartographer](https://github.com/cartographer-project/cartographer) is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 
+[Tile38](https://tile38.com/) is an open source (MIT licensed), in-memory geolocation data store, spatial index, and realtime geofencing server. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.
+
+[OSMnx](https://github.com/gboeing/osmnx) is a Python package that lets you download geospatial data from OpenStreetMap and model, project, visualize, and analyze real-world street networks and any other geospatial geometries. 
+
+[GraphHopper](https://github.com/graphhopper/graphhopper) is a fast and memory-efficient routing engine released under Apache License 2.0. It can be used as a Java library or standalone web server to calculate the distance, time, turn-by-turn instructions and many road attributes for a route between two or more points.
+
 [QGroundControl (QGC)](https://github.com/mavlink/qgroundcontrol) is an intuitive and powerful ground control station (GCS) for UAVs. It provides full flight control and mission planning for any MAVLink enabled drone(Android, iOS, Mac OS, Linux, Windows), and vehicle setup for both PX4 and ArduPilot powered UAVs. 
 
 [GAAS](https://www.gaas.dev/) is an open-source program designed for fully autonomous VTOL(a.k.a flying cars) and drones. GAAS stands for Generalized Autonomy Aviation System. It provides a fully autonomous flight platform based on lidar, HD-map relocalization, path planning, and other modules for aircraft. 
