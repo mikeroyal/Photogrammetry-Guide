@@ -225,6 +225,12 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [GraphHopper](https://github.com/graphhopper/graphhopper) is a fast and memory-efficient routing engine released under Apache License 2.0. It can be used as a Java library or standalone web server to calculate the distance, time, turn-by-turn instructions and many road attributes for a route between two or more points.
 
+[Rasterio](https://rasterio.readthedocs.io/) is a tool that reads and writes geospatial raster datasets.
+
+[GRASS GIS](https://grass.osgeo.org/) is a Geographic Information System used for geospatial data management and analysis, image processing, graphics/map production, spatial modeling, and visualization.
+
+[Headway](https://about.maps.earth/) is a self-hostable maps stack, powered by OpenStreetMap. This makes it easy to take control of your location data into your own hands. With just a few commands you can bring up your own fully functional maps server. This includes a frontend, basemap, geocoder and routing engine. 
+
 [QGroundControl (QGC)](https://github.com/mavlink/qgroundcontrol) is an intuitive and powerful ground control station (GCS) for UAVs. It provides full flight control and mission planning for any MAVLink enabled drone(Android, iOS, Mac OS, Linux, Windows), and vehicle setup for both PX4 and ArduPilot powered UAVs. 
 
 [GAAS](https://www.gaas.dev/) is an open-source program designed for fully autonomous VTOL(a.k.a flying cars) and drones. GAAS stands for Generalized Autonomy Aviation System. It provides a fully autonomous flight platform based on lidar, HD-map relocalization, path planning, and other modules for aircraft. 
