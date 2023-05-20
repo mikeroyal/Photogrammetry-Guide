@@ -261,6 +261,8 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [Qlone](https://www.qlone.pro/) is a photogrammetry app for creation of 3D models on mobile devices. Qlone is unique in being able to create 3D models on the mobile device without recourse to external cloud servers.
 
+[QGIS](https://github.com/qgis/) is a Free and Open Source Geographic Information System.
+
 [WIDAR](https://www.widar.io/) is a 3D contents creation app that allows you to scan and edit 3D models on your smartphone. Enjoy creating high-quality 3D contents, view directly on device, play in AR and post the contents on in-app community. It can also export 3D contents to use in game, VFX effect in movies, architecture, construction, AR, VR, and 3D printing.
 
 [Trnio](https://www.trnio.com/) is a tool that turns your iPhone to into a high-quality 3D scanner, using our cloud service (scans are NOT processed on your device) to convert your images into high-quality scans.
