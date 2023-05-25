@@ -211,6 +211,8 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [ClusterODM](https://www.opendronemap.org/clusterodm/) is a reverse proxy, load balancer and task tracker with optional cloud autoscaling capabilities for NodeODM API compatible nodes. In a nutshell, it's a program to link together multiple NodeODM API compatible nodes under a single network address.
 
+[Mosaic](https://databrickslabs.github.io/mosaic/) is an extension to the Apache Spark framework that allows easy and fast processing of very large geospatial datasets.) is an extension to the Apache Spark framework that allows easy and fast processing of very large geospatial datasets. 
+
 [FIELDimageR](https://www.opendronemap.org/fieldimager/) is an R package to analyze orthomosaic images from agricultural field trials.
 
 [Regard3D](https://www.regard3d.org/) is a free and open source structure-from-motion program. It converts photos of an object, taken from different angles, into a 3D model of this object.
