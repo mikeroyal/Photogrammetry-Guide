@@ -229,6 +229,12 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [Martin](https://martin.maplibre.org/) is a tile server able to generate [vector tiles](https://github.com/mapbox/vector-tile-spec) from large [PostGIS](https://github.com/postgis/postgis) databases on the fly, or serve tiles from [PMTile](https://protomaps.com/blog/pmtiles-v3-whats-new) and [MBTile](https://github.com/mapbox/mbtiles-spec) files. Martin optimizes for speed and heavy traffic, and is written in Rust.
 
+[Headway](https://about.maps.earth/) is a maps stack in a box that makes it easy to take your location data into your own hands. With just a few commands you can bring up your own fully functional maps server. This includes a frontend, basemap, geocoder and routing engine. Choose one of the 200+ predefined cities or provide your own OpenStreetMap extract covering any area: from a neighborhood to the whole planet.
+
+[OpenLayers](https://openlayers.org/) is a high-performance, feature-packed library for creating interactive maps on the web. It can display map tiles, vector data and markers loaded from any source on any web page.
+
+[Supercluster](https://github.com/mapbox/supercluster) is a very fast JavaScript library for geospatial point clustering for browsers and Node.
+
 [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) is an open-source library for publishing maps on your websites or webview based apps. Fast displaying of maps is possible thanks to GPU-accelerated vector tile rendering. 
 
 [MapLibre Native](https://maplibre.org/) is an Interactive vector tile maps for iOS, Android and other platforms. 
