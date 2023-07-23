@@ -241,6 +241,14 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [Maplibre-rs ](https://github.com/maplibre/maplibre-rs) is an Experimental Maps for Web, Mobile and Desktop.
 
+[Prettymaps](https://github.com/marceloprates/prettymaps) is a small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries. 
+
+[OrientDB](https://github.com/orientechnologies/orientdb) is an Open Source Multi-Model NoSQL DBMS with the support of Native Graphs, Documents Full-Text, Reactivity, Geo-Spatial and Object Oriented concepts.
+
+[PgRouting](https://pgrouting.org/) is a tool that extends the PostGIS / PostgreSQL geospatial database to provide geospatial routing functionality.
+
+[PostGIS Vector Tile Utils](https://github.com/mapbox/postgis-vt-util) is a set of PostgreSQL functions that are useful when creating vector tile sources.
+
 [3D Scanner App for Mac](https://apps.apple.com/us/app/3d-scanner-app/id1419913995) is a desktop tool for processing photos and videos into 3D models using the power of Photogrammetry; which makes it perfect for 3D Design, CAD, Architecture, Games Assets, AR, VR, XR. It shares USDZ models via iMessage to let friends and family see your models in Augmented Reality.
 
 [Cartographer](https://github.com/cartographer-project/cartographer) is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
