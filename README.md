@@ -167,6 +167,28 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [Polycam](https://poly.cam/) is the world's most popular LiDAR 3D scanning app for iOS(iPhone/iPad), Web, and Android. It let's you scan the world around you with your mobile device, DSLR camera, or drone to get beautiful, accurate 3D models. 
 
+[ArcMap Raster Edit Suite](https://github.com/haoliangyu/ares) - is an ArcMap Add-in that enables manual editing of single pixels on raster layer.
+
+[Bertin.js](https://github.com/neocarto/bertin) is a JavaScript library for visualizing geospatial data and make thematic maps for the web.
+
+[CMV - The Configurable Map Viewer](https://github.com/cmv/cmv-app)  is a community-supported open source mapping framework. CMV works with the Esri JavaScript API, ArcGIS Server, ArcGIS Online and more.
+
+[ContextCapture](https://www.bentley.com/software/contextcapture/) is a tool that enables you to automatically generate multi-resolution 3D models at any scale and precision.
+
+[Correlator3D](https://www.simactive.com/correlator3d-mapping-software-features) is a High-end photogrammetry suite.
+
+[FME Desktop](https://www.safe.com/fme/fme-desktop/) is an integrated collection of Spatial ETL tools for data transformation and data translation.
+
+[Geomedia](https://hexagon.com/products/geomedia) is a Commercial GIS software.
+
+[GRASS (Geographic Resources Analysis Support System) GIS](https://grass.osgeo.org/) is a free and open source GIS software.
+
+[SNAP](https://step.esa.int/main/download/snap-download/) is an open source common architecture for ESA Toolboxes ideal for the exploitation of Earth Observation data.
+
+[TerrSet (formerly IDRISI)](https://clarklabs.org/terrset/) is an integrated geographic information system (GIS) and remote sensing software
+
+[The Sentinel Toolbox](https://sentinel.esa.int/web/sentinel/toolboxes) is a collection of processing tools, data product readers and writers and a display and analysis application to process Sentinel data.
+
 [BoofCV](https://github.com/lessthanoptimal/BoofCV) is an open source library written from scratch for real-time computer vision. Its functionality covers a range of subjects, low-level image processing, camera calibration, feature detection/tracking, structure-from-motion, fiducial detection, and recognition. 
 
 [OpenMVG (open Multiple View Geometry)](https://github.com/openMVG/openMVG) is a library for 3D Computer Vision and Structure from Motion. It's targeted for the Multiple View Geometry community.
