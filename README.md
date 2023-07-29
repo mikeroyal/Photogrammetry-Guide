@@ -271,6 +271,24 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [PostGIS Vector Tile Utils](https://github.com/mapbox/postgis-vt-util) is a set of PostgreSQL functions that are useful when creating vector tile sources.
 
+[CMV - The Configurable Map Viewer](https://github.com/cmv/cmv-app)  is a community-supported open source mapping framework. CMV works with the Esri JavaScript API, ArcGIS Server, ArcGIS Online and more.
+
+[ContextCapture](https://www.bentley.com/software/contextcapture/) is a tool that enables you to automatically generate multi-resolution 3D models at any scale and precision.
+
+[Correlator3D](https://www.simactive.com/correlator3d-mapping-software-features) is a High-end photogrammetry suite.
+
+FME Desktop](https://www.safe.com/fme/fme-desktop/) is an integrated collection of Spatial ETL tools for data transformation and data translation.
+
+[Geomedia](https://hexagon.com/products/geomedia) is a Commercial GIS software.
+
+[GRASS (Geographic Resources Analysis Support System) GIS](https://grass.osgeo.org/) is a free and open source GIS software.
+
+[SNAP](https://step.esa.int/main/download/snap-download/) is an open source common architecture for ESA Toolboxes ideal for the exploitation of Earth Observation data.
+
+[TerrSet (formerly IDRISI)](https://clarklabs.org/terrset/) is an integrated geographic information system (GIS) and remote sensing software
+
+[The Sentinel Toolbox](https://sentinel.esa.int/web/sentinel/toolboxes) is a collection of processing tools, data product readers and writers and a display and analysis application to process Sentinel data.
+
 [3D Scanner App for Mac](https://apps.apple.com/us/app/3d-scanner-app/id1419913995) is a desktop tool for processing photos and videos into 3D models using the power of Photogrammetry; which makes it perfect for 3D Design, CAD, Architecture, Games Assets, AR, VR, XR. It shares USDZ models via iMessage to let friends and family see your models in Augmented Reality.
 
 [Cartographer](https://github.com/cartographer-project/cartographer) is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
