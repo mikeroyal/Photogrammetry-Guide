@@ -323,6 +323,14 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [QGIS](https://github.com/qgis/) is a Free and Open Source Geographic Information System.
 
+[Aerotas](https://www.aerotas.com/) is a tool that processes the data Photogrammetry + Topography + Planimetrics CAD files created from your drone data.
+
+[Topo Setter](https://www.dronemappingtools.com/products/toposetter) is a simple, yet powerful tool for automated postprocessing GNSS data in any coordinate system and replacing coordinates in image EXIF tags with precise coordinates from postprocessed GNSS data. It provides a high level of the input data accuracy.
+
+[TOPODRONE](https://topodrone.com/product/) is a Swiss-based designer and manufacturer of high-precision surveying equipment. They offer a lightweight 360° LiDAR model range with advanced features and capabilities: LiDAR 100 & 100+ with a 100 m working flight altitude and LiDAR 200+ with a 200m working flight altitude. All of them can be used as a single payload for different carriers and installed on a drone, car and backpack. 
+
+[KIRI Engine](https://www.kiriengine.com/) is the World's Most Powerful 3D Scanner App for iOS, Android, and Web Browsers.
+
 [WIDAR](https://www.widar.io/) is a 3D contents creation app that allows you to scan and edit 3D models on your smartphone. Enjoy creating high-quality 3D contents, view directly on device, play in AR and post the contents on in-app community. It can also export 3D contents to use in game, VFX effect in movies, architecture, construction, AR, VR, and 3D printing.
 
 [Trnio](https://www.trnio.com/) is a tool that turns your iPhone to into a high-quality 3D scanner, using our cloud service (scans are NOT processed on your device) to convert your images into high-quality scans.
