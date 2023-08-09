@@ -283,7 +283,19 @@ by Piero Toffanin](https://www.amazon.com/OpenDroneMap-Missing-Practical-Mapping
 
 [GRASS (Geographic Resources Analysis Support System) GIS](https://grass.osgeo.org/) is a free and open source GIS software.
 
+[pyGEDI](https://github.com/EduinHSERNA/pyGEDI) is a high performance, lower cognitive load, and cleaner and more transparent code for data extraction, analysis, processing, and visualization of Global Ecosystem Dynamics Investigation (GEDI) products.
+
+[rGEDI](https://github.com/carlos-alberto-silva/rGEDI) is an R Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing.
+
+[Quick Terrain Modeler](https://appliedimagery.com/) is a proprietary LiDAR exploitation software by Applied Imagery.
+
 [SNAP](https://step.esa.int/main/download/snap-download/) is an open source common architecture for ESA Toolboxes ideal for the exploitation of Earth Observation data.
+
+[The Point Cloud Library (PCL)](https://pointclouds.org/) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
+
+[TopoDOT](https://new.certainty3d.com/) is a proprietary software for extracting topography, 3D models, GIS Assets, and more from point cloud data.
+
+[Treetop](https://github.com/carlos-alberto-silva/weblidar-treetop) is a Shiny-based Application for Extracting Forest Information from LiDAR data.
 
 [TerrSet (formerly IDRISI)](https://clarklabs.org/terrset/) is an integrated geographic information system (GIS) and remote sensing software
 
