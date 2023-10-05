@@ -49,9 +49,41 @@
 
 [Photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is the art and science of extracting 3D information from photographs. The process involves taking overlapping photographs of an object, structure, or space, and converting them into 2D or 3D digital models. Photogrammetry is often used by surveyors, architects, engineers, and contractors to create topographic maps, meshes, point clouds, or drawings based on the real-world.
 
-[Aerial photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is process of utilizing aircrafts to produce aerial photography that can be turned into a 3D model or mapped digitally. Now, it is possible to do the same work with a drone.
+## Types of Photogrammetry
 
-[Terrestrial (Close-range) photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is when images are captured using a handheld camera or with a camera mounted to a tripod. The output of this method is not to create topographic maps, but rather to make 3D models of a smaller object.
+* [Aerial photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is process of utilizing aircrafts to produce aerial photography that can be turned into a 3D model or mapped digitally. Now, it is possible to do the same work with a drone.
+
+ * [Terrestrial (Close-range) photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is when images are captured using a handheld camera or with a camera mounted to a tripod. The output of this method is not to create topographic maps, but rather to make 3D models of a smaller object.
+
+ * [Stereo Photogrammetry](https://pro.arcgis.com/en/pro-app/latest/help/analysis/image-analyst/introduction-to-stereo-mapping.htm) is a process that involves the estimation of 3D coordinates of points on an object by considering the measurements made of two or more images taken from different positions. The sensor looks at angles that are horizontal or oblique to collect accurate, detailed information for primarily engineering purposes, such as mapping the infrastructure of bridges, buildings, and dams.
+
+## Photogrammetry Techniques
+
+[Back to the Top](#table-of-contents)
+
+* [Structure from motion (SfM)](https://en.wikipedia.org/wiki/Structure_from_motion) is a photogrammetry range imaging technique for estimating 3D structures from 2D image sequences that may be coupled with local motion signals. 
+
+ * [Scale-Invariant Feature Transform (SIFT)](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform) is a computer vision algorithm to detect, describe, and match local features in images. This includes object recognition, robotic mapping and navigation, image stitching, and 3D modeling.
+ 
+ * [Digital Outcrop Model (DOM)](https://en.wikipedia.org/wiki/Digital_outcrop_model) is a digital 3D representation of the outcrop surface, mostly in a form of textured polygon mesh. This allows for interpretation and reproducible measurement of different geological features, orientation of geological surfaces, width, and thickness of layers.
+ 
+ * [Digital Elevation Model (DEM)](https://www.usgs.gov/faqs/what-digital-elevation-model-dem) is a digital 3D representation of the bare ground (bare earth) topographic surface of the Earth excluding trees, buildings, and any other surface objects. 
+ 
+ * [Digital Terrain Model (DTM)](https://gisgeography.com/dem-dsm-dtm-differences/) is a digital 3D representation of the terrain surface using a set of heights over 2D points residing on a reference surface.
+
+ * [Ground Control Points (GCPs)](https://www.usgs.gov/landsat-missions/ground-control-points) is a technique with known real-world coordinates that can be clearly identified in an image. GCPs are used in the orthorectification process to augment the geometric parameters embedded in the raw image and improve the accuracy of the resulting orthorectification. 
+ 
+ * [Orthorectification](https://locationiq.com/glossary/orthorectification) is a process of removing distortion from an image caused by the curvature of the Earth and changes in terrain. It involves correcting the perspective of the image to align it with a map or a coordinate system, resulting in a more accurate representation of the Earth's surface.
+ 
+ * [Orthorectified imagery](https://www.esri.com/about/newsroom/insider/what-is-orthorectified-imagery/) is a type of imagery that has been processed to apply corrections for optical distortions of satellite/aerial imagery caused by topography and sensor geometry errors.
+ 
+  * [Real Time Kinematic (RTK)](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning)  is a satellite navigation technique used to enhance the precision of position data derived from satellite-based positioning systems (global navigation satellite systems, GNSS) such as GPS, GLONASS, Galileo, NavIC and BeiDou. 
+  
+  * [Post Processing Kinematic (PPK)](https://docs.emlid.com/reach/tutorials/basics/ppk-introduction/) is an alternative a satellite navigation technique to Real-Time Kinematic (RTK) used in surveying that corrects the location data after it is collected and uploaded. This technique is commonly used in drone mapping and land surveying.
+  
+## Neural Radiance Field (NeRF)
+
+[Back to the Top](#table-of-contents)
 
 [NeRF (Neural Radiance Field)](https://developer.nvidia.com/blog/getting-started-with-nvidia-instant-nerfs/) is a neural rendering model that learns a high-resolution 3D scene in seconds and can render images of that scene in a few milliseconds. It works by taking a handful a of 2D images representing a scene and [interpolating](https://en.wikipedia.org/wiki/Interpolation) between them to render one complete 3D scene.
 
@@ -125,7 +157,7 @@ NVIDIA Instant NeRFs. Image Credit: [NVIDIA](https://developer.nvidia.com/blog/g
 <summary>Multi-scale</summary>
 
 - [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf)
-- [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://jonbarron.info/mipnerf360/), Barron et al., Arxiv 2022 | [bibtex](./citations/mip-nerf-360.txt)
+- [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://jonbarron.info/mipnerf360/), Barron et al., Arxiv 2022.
 </details>
 
 <details open>
@@ -158,6 +190,9 @@ NVIDIA Instant NeRFs. Image Credit: [NVIDIA](https://developer.nvidia.com/blog/g
 - [Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields](https://mizhenxing.github.io/switchnerf), Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF)
 </details>
 
+## LERF(Language Embedded Radiance Fields)
+
+[Back to the Top](#table-of-contents)
 
 [LERF(Language Embedded Radiance Fields)](https://www.lerf.io/) is a AI process that optimizes a dense, multi-scale language 3D field by volume rendering CLIP embeddings along training rays, supervising these embeddings with multi-scale CLIP features across multi-view training images. 
 
