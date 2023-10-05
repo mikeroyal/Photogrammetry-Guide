@@ -51,7 +51,123 @@
 
 [Aerial photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is process of utilizing aircrafts to produce aerial photography that can be turned into a 3D model or mapped digitally. Now, it is possible to do the same work with a drone.
 
-[Terrestrial(Close-range) photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is when images are captured using a handheld camera or with a camera mounted to a tripod. The output of this method is not to create topographic maps, but rather to make 3D models of a smaller object.
+[Terrestrial (Close-range) photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is when images are captured using a handheld camera or with a camera mounted to a tripod. The output of this method is not to create topographic maps, but rather to make 3D models of a smaller object.
+
+[NeRF (Neural Radiance Field)](https://developer.nvidia.com/blog/getting-started-with-nvidia-instant-nerfs/) is a neural rendering model that learns a high-resolution 3D scene in seconds and can render images of that scene in a few milliseconds. It works by taking a handful a of 2D images representing a scene and [interpolating](https://en.wikipedia.org/wiki/Interpolation) between them to render one complete 3D scene.
+
+ * [Neural Radiance Field (NeRF): A Gentle Introduction ](https://datagen.tech/guides/synthetic-data/neural-radiance-field-nerf/)
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/2e37a94b-a92b-489f-843d-a43afc5dbc13">
+</br>
+</p>
+
+NVIDIA Instant NeRFs. Image Credit: [NVIDIA](https://developer.nvidia.com/blog/getting-started-with-nvidia-instant-nerfs/)
+
+<details open>
+<summary>Compression</summary>
+
+- [Variable Bitrate Neural Fields](https://nv-tlabs.github.io/vqad/), Takikawa et al., SIGGRAPH 2022 | [github](https://github.com/nv-tlabs/vqad)
+</details>
+
+<details open>
+<summary>Unconstrained Images</summary>
+
+- [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io/), Martin-Brualla et al., CVPR 2021 <!---MartinBrualla20arxiv_nerfw-->
+- [Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/), Chen et al., CVPR 2022 | [github](https://github.com/rover-xingyu/Ha-NeRF) <!---chen2021hallucinated-->
+- [HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields](https://hdr-plenoxels.github.io/), Jun-seong et al., ECCV 2022 | [github](https://github.com/postech-ami/HDR-Plenoxels) <!---Jun-seong2022hdr-plenoxels-->
+</details>
+
+<details open>
+<summary>Pose Estimation</summary>
+
+- [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](http://yenchenlin.me/inerf/), Yen-Chen et al. IROS 2021 <!---YenChen20arxiv_iNeRF-->
+- [A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering](https://zollhoefer.com/papers/arXiv20_ANeRF/page.html), Su et al. Arxiv 2021 <!---Su21arxiv_A_NeRF-->
+- [NeRF--: Neural Radiance Fields Without Known Camera Parameters](http://nerfmm.active.vision/), Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm) <!---Wang21arxiv_nerfmm-->
+- [iMAP: Implicit Mapping and Positioning in Real-Time](https://edgarsucar.github.io/iMAP/), Sucar et al., ICCV 2021
+- [NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](https://pengsongyou.github.io/nice-slam), Zhu et al., Arxiv 2021
+- [GNeRF: GAN-based Neural Radiance Field without Posed Camera](https://arxiv.org/abs/2103.15606), Meng et al., Arxiv 2021
+- [BARF: Bundle-Adjusting Neural Radiance Fields](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/), Lin et al., ICCV 2021 
+- [Self-Calibrating Neural Radiance Fields](https://postech-cvlab.github.io/SCNeRF/), Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF)
+- [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF)
+- [Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields](https://arxiv.org/abs/2209.09050), Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF)
+- [Robust Camera Pose Refinement for Multi-Resolution Hash Encoding](http://arxiv.org/abs/2302.01571), Heo et al., ICML 2023.
+</details>
+
+<details open>
+<summary>Compositionality</summary>
+
+- [NeRF++: Analyzing and Improving Neural Radiance Fields](https://arxiv.org/abs/2010.07492), Zhang et al., Arxiv 2020 | [github](https://github.com/Kai-46/nerfplusplus) <!---Zhang20arxiv_nerf++-->
+- [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://arxiv.org/abs/2011.12100), Niemeyer et al., CVPR 2021. <!---Niemeyer20arxiv_GIRAFFE-->
+- [Object-Centric Neural Scene Rendering](https://shellguo.com/osf/), Guo et al., Arxiv 2020 <!---Guo20arxiv_OSF-->
+- [Learning Compositional Radiance Fields of Dynamic Human Heads](https://ziyanw1.github.io/hybrid_nerf/), Wang et al., Arxiv 2020. <!---Wang20arxiv_hybrid_NeRF-->
+- [Neural Scene Graphs for Dynamic Scenes](https://light.princeton.edu/neural-scene-graphs/), Ost et al., CVPR 2021. <!---Ost20arxiv_NeuralSceneGraphs-->
+- [Unsupervised Discovery of Object Radiance Fields](https://kovenyu.com/uorf/), Yu et al., Arxiv 2021 .
+- [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/), Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf) <!---yang2021objectnerf-->
+- [MoFaNeRF: Morphable Facial Neural Radiance Field](https://neverstopzyy.github.io/mofanerf/), Zhuang et al., Arxiv 2021 | [github](https://github.com/zhuhao-nju/mofanerf)
+</details>
+
+<details open>
+<summary>Scene Labelling and Understanding</summary>
+
+- [In-Place Scene Labelling and Understanding with Implicit Scene Representation](https://shuaifengzhi.com/Semantic-NeRF/), Zhi et al., Arxiv 2021.
+- [NeRF-SOS: Any-view Self-supervised Object Segmentation on Complex Real-world Scenes](https://zhiwenfan.github.io/NeRF-SOS/), Fan et al., ICLR 2023.
+</details>
+
+<details open>
+<summary>Object Category Modeling</summary>
+
+- [FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling](https://fig-nerf.github.io/), Xie et al., Arxiv 2021.
+- [NeRF-Tex: Neural Reflectance Field Textures](https://developer.nvidia.com/blog/nvidia-research-nerf-tex-neural-reflectance-field-textures/), Baatz et al., EGSR 2021.
+</details>
+
+<details open>
+<summary>Multi-scale</summary>
+
+- [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/), Barron et al., Arxiv 2021 | [github](https://github.com/google/mipnerf)
+- [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://jonbarron.info/mipnerf360/), Barron et al., Arxiv 2022 | [bibtex](./citations/mip-nerf-360.txt)
+</details>
+
+<details open>
+<summary>Model Reconstruction</summary>
+
+- [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://arxiv.org/abs/2104.10078), Oechsle et al., ICCV 2021
+- [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/abs/2106.10689), Wang et al., NeurIPS 2021 | [github](https://github.com/Totoro97/NeuS)
+- [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/abs/2106.12052), Yariv et al., NeurIPS 2021 | [github](https://github.com/ventusff/neurecon)
+- [NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images](https://arxiv.org/abs/2303.12012), Meng et al., CVPR 2023 | [github](https://github.com/xmeng525/NeAT)
+</details>
+
+
+<details open>
+<summary>Depth Estimation</summary>
+
+- [NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://weiyithu.github.io/NerfingMVS/), Wei et al., ICCV 2021.
+</details>
+
+
+<details open>
+<summary>Robotics</summary>
+
+- [3D Neural Scene Representations for Visuomotor Control](https://3d-representation-learning.github.io/nerf-dy/), Li et al., CoRL 2021 Oral.
+- [Vision-Only Robot Navigation in a Neural Radiance World](https://arxiv.org/abs/2110.00168), Adamkiewicz et al., RA-L 2022 Vol.7 No.2 .
+</details>
+
+<details open>
+<summary>Large-scale scene</summary>
+
+- [Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields](https://mizhenxing.github.io/switchnerf), Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF)
+</details>
+
+
+[LERF(Language Embedded Radiance Fields)](https://www.lerf.io/) is a AI process that optimizes a dense, multi-scale language 3D field by volume rendering CLIP embeddings along training rays, supervising these embeddings with multi-scale CLIP features across multi-view training images. 
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/c6c9e849-32cf-4b0a-9e37-de2335e6659f">
+</br>
+</p>
+
+LERF Rendering. Image credit: [LERF.io](https://www.lerf.io/)
+
 
 ### Certifications & Courses
 [Back to the Top](#table-of-contents)
