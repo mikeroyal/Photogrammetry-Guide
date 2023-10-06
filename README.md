@@ -26,7 +26,7 @@
 1. [Getting Started with Photogrammetry](https://github.com/mikeroyal/Photogrammetry-Guide#getting-started-with-photogrammetry)
     - [Types of Photogrammetry](#types-of-photogrammetry)
     - [Photogrammetry Techniques](#photogrammetry-techiques)
-    - [Neural Radiance Field (NeRF)](#neural-randiance-field-nerf)
+    - [Neural Radiance Field (NeRF)](#neural-radiance-field-nerf)
     - [Certifications & Courses](https://github.com/mikeroyal/Photogrammetry-Guide#Certifications--Courses)
     - [Books/eBooks](https://github.com/mikeroyal/Photogrammetry-Guide#BookseBooks)
     - [YouTube Tutorials](https://github.com/mikeroyal/Photogrammetry-Guide#YouTube-Tutorials)
@@ -110,7 +110,10 @@ Image credit: Stereo Photogrammetry Capture. [HELImetrex](https://www.helimetrex
 [Back to the Top](#table-of-contents)
 
 [NeRF (Neural Radiance Field)](https://developer.nvidia.com/blog/getting-started-with-nvidia-instant-nerfs/) is a neural rendering model that learns a high-resolution 3D scene in seconds and can render images of that scene in a few milliseconds. It works by taking a handful a of 2D images representing a scene and [interpolating](https://en.wikipedia.org/wiki/Interpolation) between them to render one complete 3D scene.
-
+ 
+ * [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://tancik.com/nerf)
+ * [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding (PDF)](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)
+ * [Instant Neural Graphics Primitives](https://github.com/NVlabs/instant-ngp)
  * [Neural Radiance Field (NeRF): A Gentle Introduction ](https://datagen.tech/guides/synthetic-data/neural-radiance-field-nerf/)
  
  <p align="center">
@@ -119,6 +122,15 @@ Image credit: Stereo Photogrammetry Capture. [HELImetrex](https://www.helimetrex
 </p>
 
 NVIDIA Instant NeRFs. Image Credit: [NVIDIA](https://developer.nvidia.com/blog/getting-started-with-nvidia-instant-nerfs/)
+
+[Tiny CUDA Neural Networks](https://github.com/NVlabs/tiny-cuda-nn) is a small, self-contained framework for training and querying neural networks. Most notably, it contains a lightning fast ["fully fused" multi-layer perceptron](https://raw.githubusercontent.com/NVlabs/tiny-cuda-nn/master/data/readme/fully-fused-mlp-diagram.png) ([technical paper](https://tom94.net/data/publications/mueller21realtime/mueller21realtime.pdf)), a versatile [multiresolution hash encoding](https://raw.githubusercontent.com/NVlabs/tiny-cuda-nn/master/data/readme/multiresolution-hash-encoding-diagram.png) ([technical paper](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)), as well as support for various other input encodings, losses, and optimizers.
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/c92637b1-5e96-44b1-a715-97b6eecab641">
+</br>
+</p>
+
+NVIDIA Instant NeRFs using tiny-cuda-nn (Tiny CUDA Neural Networks). Image Credit: [NVIDIA](https://github.com/NVlabs/instant-ngp/blob/master/docs/assets_readme/testbed.png)
 
 <details open>
 <summary>Compression</summary>
