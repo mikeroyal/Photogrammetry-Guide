@@ -24,6 +24,9 @@
 # Table of Contents
 
 1. [Getting Started with Photogrammetry](https://github.com/mikeroyal/Photogrammetry-Guide#getting-started-with-photogrammetry)
+    - [Types of Photogrammetry](#types-of-photogrammetry)
+    - [Photogrammetry Techniques](#photogrammetry-techiques)
+    - [Neural Radiance Field (NeRF)](#neural-randiance-field-nerf)
     - [Certifications & Courses](https://github.com/mikeroyal/Photogrammetry-Guide#Certifications--Courses)
     - [Books/eBooks](https://github.com/mikeroyal/Photogrammetry-Guide#BookseBooks)
     - [YouTube Tutorials](https://github.com/mikeroyal/Photogrammetry-Guide#YouTube-Tutorials)
@@ -53,9 +56,30 @@
 
 * [Aerial photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is process of utilizing aircrafts to produce aerial photography that can be turned into a 3D model or mapped digitally. Now, it is possible to do the same work with a drone.
 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/de6208aa-082d-4c75-8b24-54cff3dab78c">
+</br>
+</p>
+
+Image credit: [Forestrypedia](https://forestrypedia.com/photogrammetry-definitions/)
+
  * [Terrestrial (Close-range) photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is when images are captured using a handheld camera or with a camera mounted to a tripod. The output of this method is not to create topographic maps, but rather to make 3D models of a smaller object.
 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/11aecb3d-5488-4b08-8928-0df569871acb">
+</br>
+</p>
+
+Image credit: [TLT Photography](https://www.tlt.photography/2018/06/trail-mapping-with-terrestrial-photogrammetry-a-funny-tale/)
+
  * [Stereo Photogrammetry](https://pro.arcgis.com/en/pro-app/latest/help/analysis/image-analyst/introduction-to-stereo-mapping.htm) is a process that involves the estimation of 3D coordinates of points on an object by considering the measurements made of two or more images taken from different positions. The sensor looks at angles that are horizontal or oblique to collect accurate, detailed information for primarily engineering purposes, such as mapping the infrastructure of bridges, buildings, and dams.
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/b04d0a9a-b0dd-46cf-9141-fc7fc6e3fbcb">
+</br>
+</p>
+
+Image credit: Stereo Photogrammetry Capture. [HELImetrex](https://www.helimetrex.com.au/aerial-survey-mapping/stereo-photogrammetry-capture/)
 
 ## Photogrammetry Techniques
 
