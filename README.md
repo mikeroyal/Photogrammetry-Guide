@@ -25,7 +25,7 @@
 
 1. [Getting Started with Photogrammetry](https://github.com/mikeroyal/Photogrammetry-Guide#getting-started-with-photogrammetry)
     - [Types of Photogrammetry](#types-of-photogrammetry)
-    - [Photogrammetry Techniques](#photogrammetry-techiques)
+    - [Photogrammetry Techniques](#photogrammetry-techniques)
     - [Neural Radiance Field (NeRF)](#neural-radiance-field-nerf)
     - [Certifications & Courses](https://github.com/mikeroyal/Photogrammetry-Guide#Certifications--Courses)
     - [Books/eBooks](https://github.com/mikeroyal/Photogrammetry-Guide#BookseBooks)
