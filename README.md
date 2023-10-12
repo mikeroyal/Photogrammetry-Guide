@@ -265,6 +265,12 @@ LERF Rendering. Image credit: [LERF.io](https://www.lerf.io/)
 ### Certifications & Courses
 [Back to the Top](#table-of-contents)
 
+ - [ASPRS (American Society for Photogrammetry and Remote Sensing) Certification Program](https://www.asprs.org/certification)
+
+ - [Pix4D training and certification for mapping professionals](https://training.pix4d.com/)
+
+ - [Drone mapping and photogrammetry workshops with Pix4D](https://training.pix4d.com/pages/workshops)
+ 
  - [Top Photogrammetry Courses Online | Udemy](https://www.udemy.com/topic/photogrammetry/)
 
  - [Photogrammetry With Drones: In Mapping Technology | Udemy](https://www.udemy.com/course/essentials-of-photogrammetry/)
@@ -273,15 +279,9 @@ LERF Rendering. Image credit: [LERF.io](https://www.lerf.io/)
 
  - [Photogrammetry Online Classes and Training | Linkedin Learning](https://www.linkedin.com/learning/search?keywords=Photogrammetry&upsellOrderOrigin=default_guest_learning&trk=learning-course_learning-search-bar_search-submit)
 
- - [Pix4D training and certification for mapping professionals](https://training.pix4d.com/)
-
- - [Drone mapping and photogrammetry workshops with Pix4D](https://training.pix4d.com/pages/workshops)
-
  - [Digital Photogrammetric Systems Course | Purdue Online Learning](https://engineering.purdue.edu/online/courses/digital-photogrammetric-systems)
 
  - [Photogrammetry Training | Deep3D Photogrammetry](https://deep3d.co.uk/photogrammetry-training/)
-
- - [ASPRS Certification Program](https://www.asprs.org/certification)
  
  - [Blender 3 + Reality Capture 5hr. Tutorial Course, with Futuristic Movie Scene & Files](https://blendermarket.com/products/blender-3--reality-capture-cinematic-render-course-futuristic-movie-film-scene)
   
