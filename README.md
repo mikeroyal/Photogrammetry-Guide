@@ -52,6 +52,28 @@
 
 [Photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is the art and science of extracting 3D information from photographs. The process involves taking overlapping photographs of an object, structure, or space, and converting them into 2D or 3D digital models. Photogrammetry is often used by surveyors, architects, engineers, and contractors to create topographic maps, meshes, point clouds, or drawings based on the real-world.
 
+[Remote Sensing](https://www.earthdata.nasa.gov/learn/backgrounders/remote-sensing) is a set of  techniques used to gather and process information about an object without direct physical contact.
+
+ * **Active remote sensing** are instruments that operate with their own source of emission or light, while passive ones rely on the reflected one. Radiation also differs by wavelengths that fall into short (visible, NIR, MIR) and long (microwave). Active remote sensing techniques differ by what they transmit (light or waves) and what they determine (distance, height, atmospheric conditions, etc.).
+
+ * **Passive remote sensing** are instruments that depend on natural energy (sunrays) bounced by the target. For this reason, it can be applied only with proper sunlight, otherwise there will be nothing to reflect. It employs multispectral or hyperspectral sensors that measure the acquired quantity with multiple band combinations. These combinations differ by the number of channels (two wavelengths and more). The scope of bands (visible, IR, NIR, TIR, microwave).
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/b7aabdc2-5f15-4b3a-9caf-1d3368105086)">
+</br>
+</p>
+
+Image credit: [mdpi](https://www.mdpi.com/2072-4292/12/18/3053)
+
+[Geographic Information System (GIS)](https://www.usgs.gov/faqs/what-geographic-information-system-gis) is an information system able to encode, store, transform, analyze and display geospatial information.
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/d0068592-b28a-4442-955e-bccd793a4625">
+</br>
+</p>
+
+Image credit: [geo.university](https://www.geo.university/courses/environmental-modelling-and-analysis-in-gis)
+
 ## Types of Photogrammetry
 
 * [Aerial photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is process of utilizing aircrafts to produce aerial photography that can be turned into a 3D model or mapped digitally. Now, it is possible to do the same work with a drone.
