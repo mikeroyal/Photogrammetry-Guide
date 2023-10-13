@@ -107,7 +107,7 @@ Image credit: Stereo Photogrammetry Capture. [HELImetrex](https://www.helimetrex
   
   * [Post Processing Kinematic (PPK)](https://docs.emlid.com/reach/tutorials/basics/ppk-introduction/) is an alternative a satellite navigation technique to Real-Time Kinematic (RTK) used in surveying that corrects the location data after it is collected and uploaded. This technique is commonly used in drone mapping and land surveying.
   * [Gaussian Splatting](https://huggingface.co/blog/gaussian-splatting) is a rasterization technique described in 3D Gaussian Splatting for Real-Time Radiance Field Rendering that allows real-time rendering of photorealistic scenes learned from small samples of images. [Polycam Gaussian splat viewer and creator](https://poly.cam/gaussian-splatting)
- * [DynIBaR (Neural Dynamic Image-Based Rendering)](https://dynibar.github.io/) is a new method that generates photorealistic free-viewpoint renderings from a single video of a complex, dynamic scene. Neural Dynamic Image-Based Rendering (DynIBaR) can be used to generate a range of video effects, such as “bullet time” effects (where time is paused and the camera is moved at a normal speed around a scene), video stabilization, depth of field, and slow motion, from a single video taken with a phone’s camera. [DynIBaR: Space-time view synthesis from videos of dynamic scenes | Google Research](https://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html)
+ * [DynIBaR (Neural Dynamic Image-Based Rendering)](https://dynibar.github.io/) is a new method that generates photorealistic free-viewpoint renderings from a single video of a complex, dynamic scene. It can be used to generate a range of video effects, such as “bullet time” effects (where time is paused and the camera is moved at a normal speed around a scene), video stabilization, depth of field, and slow motion, from a single video taken with a phone’s camera. [DynIBaR: Space-time view synthesis from videos of dynamic scenes | Google Research](https://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html)
 
 ## Geographic Information System
 
@@ -144,7 +144,7 @@ Image credit: [geo.university](https://www.geo.university/courses/environmental-
 - [Abc-Map](https://abc-map.fr/) - A lightweight and user-friendly Web GIS. Create, import data from various sources, export maps or share them online freely and easily.
 
 
-## Remoter Sensing
+## Remote Sensing
 
 [Back to the Top](#table-of-contents)
 
