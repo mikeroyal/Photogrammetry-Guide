@@ -26,6 +26,8 @@
 1. [Getting Started with Photogrammetry](https://github.com/mikeroyal/Photogrammetry-Guide#getting-started-with-photogrammetry)
     - [Types of Photogrammetry](#types-of-photogrammetry)
     - [Photogrammetry Techniques](#photogrammetry-techniques)
+    - [Geographic Information System](#geographic-information-system)
+    - [Remote Sensing ](#remote-sensing)
     - [Neural Radiance Field (NeRF)](#neural-radiance-field-nerf)
     - [Certifications & Courses](https://github.com/mikeroyal/Photogrammetry-Guide#Certifications--Courses)
     - [Books/eBooks](https://github.com/mikeroyal/Photogrammetry-Guide#BookseBooks)
@@ -51,28 +53,6 @@
 [Back to the Top](#table-of-contents)
 
 [Photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is the art and science of extracting 3D information from photographs. The process involves taking overlapping photographs of an object, structure, or space, and converting them into 2D or 3D digital models. Photogrammetry is often used by surveyors, architects, engineers, and contractors to create topographic maps, meshes, point clouds, or drawings based on the real-world.
-
-[Remote Sensing](https://www.earthdata.nasa.gov/learn/backgrounders/remote-sensing) is a set of  techniques used to gather and process information about an object without direct physical contact.
-
- * **Active remote sensing** are instruments that operate with their own source of emission or light, while passive ones rely on the reflected one. Radiation also differs by wavelengths that fall into short (visible, NIR, MIR) and long (microwave). Active remote sensing techniques differ by what they transmit (light or waves) and what they determine (distance, height, atmospheric conditions, etc.).
-
- * **Passive remote sensing** are instruments that depend on natural energy (sunrays) bounced by the target. For this reason, it can be applied only with proper sunlight, otherwise there will be nothing to reflect. It employs multispectral or hyperspectral sensors that measure the acquired quantity with multiple band combinations. These combinations differ by the number of channels (two wavelengths and more). The scope of bands (visible, IR, NIR, TIR, microwave).
-
-<p align="center">
- <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/b7aabdc2-5f15-4b3a-9caf-1d3368105086)">
-</br>
-</p>
-
-Image credit: [mdpi](https://www.mdpi.com/2072-4292/12/18/3053)
-
-[Geographic Information System (GIS)](https://www.usgs.gov/faqs/what-geographic-information-system-gis) is an information system able to encode, store, transform, analyze and display geospatial information.
-
- <p align="center">
- <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/d0068592-b28a-4442-955e-bccd793a4625">
-</br>
-</p>
-
-Image credit: [geo.university](https://www.geo.university/courses/environmental-modelling-and-analysis-in-gis)
 
 ## Types of Photogrammetry
 
@@ -126,6 +106,72 @@ Image credit: Stereo Photogrammetry Capture. [HELImetrex](https://www.helimetrex
   * [Real Time Kinematic (RTK)](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning)  is a satellite navigation technique used to enhance the precision of position data derived from satellite-based positioning systems (global navigation satellite systems, GNSS) such as GPS, GLONASS, Galileo, NavIC and BeiDou. 
   
   * [Post Processing Kinematic (PPK)](https://docs.emlid.com/reach/tutorials/basics/ppk-introduction/) is an alternative a satellite navigation technique to Real-Time Kinematic (RTK) used in surveying that corrects the location data after it is collected and uploaded. This technique is commonly used in drone mapping and land surveying.
+
+## Geographic Information System
+
+[Back to the Top](#table-of-contents)
+
+[Geographic Information System (GIS)](https://www.usgs.gov/faqs/what-geographic-information-system-gis) is an information system able to encode, store, transform, analyze and display geospatial information.
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/d0068592-b28a-4442-955e-bccd793a4625">
+</br>
+</p>
+
+Image credit: [geo.university](https://www.geo.university/courses/environmental-modelling-and-analysis-in-gis)
+
+### Geographic Information System Software
+
+- [ArcGIS Desktop](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview): Extendable desktop suite to manage, visualize and analyze GIS data in 2D and 3D, including image processing. Includes ArcGIS Pro, ArcMap, ArcCatalog, and ArcGIS Online.
+- [DIVA-GIS](https://www.diva-gis.org/) - DIVA-GIS is a free geographic information system software program used for the analysis of geographic data, in particular point data on biodiversity.
+- [GeoDa](http://geodacenter.github.io/) - A free and open source software tool that serves as an introduction to spatial data analysis.
+- [GISInternals](http://www.gisinternals.com/) - Povidesdaily build packages and software development kits for the GDAL and MapServer
+- [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - An easy-to-use, robust, and genuinely affordable GIS application that combines a wide array of spatial data processing tools with access to an unparalleled variety of data formats.
+- [GRASS GIS](https://grass.osgeo.org/) - A free and open source GIS software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
+- [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable GIS.
+- [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java
+- [MapInfo Pro](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - A full-featured desktop solution to prepare data for web mapping applications and create presentation quality maps that combines data analysis, visual insights, and map publishing.
+- [Marble](https://marble.kde.org/) - A virtual globe and world atlas.
+- [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
+- [QGIS](http://qgis.org/en/site/) - A free and open source GIS.
+- [SAGA](http://www.saga-gis.org/en/index.html) - Open source system for automated geoscientific analyses.
+- [SharpMap](https://github.com/SharpMap/SharpMap) - An easy-to-use mapping library for use in web and desktop applications
+- [TileMill](https://tilemill-project.github.io/tilemill/) - An open source map design studio, developed by a community of volunteer open source contributors
+- [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - An open source desktop GIS and remote sensing software package for general applications of geospatial analysis and data visualization.
+- [DIVA-GIS](https://www.diva-gis.org/) - DIVA-GIS is a free geographic information system software program used for the analysis of geographic data, in particular point data on biodiversity.
+- [Abc-Map](https://abc-map.fr/) - A lightweight and user-friendly Web GIS. Create, import data from various sources, export maps or share them online freely and easily.
+
+
+## Remoter Sensing
+
+[Back to the Top](#table-of-contents)
+
+[Remote Sensing](https://www.earthdata.nasa.gov/learn/backgrounders/remote-sensing) is a set of  techniques used to gather and process information about an object without direct physical contact.
+
+ * **Active remote sensing** are instruments that operate with their own source of emission or light, while passive ones rely on the reflected one. Radiation also differs by wavelengths that fall into short (visible, NIR, MIR) and long (microwave). Active remote sensing techniques differ by what they transmit (light or waves) and what they determine (distance, height, atmospheric conditions, etc.).
+
+ * **Passive remote sensing** are instruments that depend on natural energy (sunrays) bounced by the target. For this reason, it can be applied only with proper sunlight, otherwise there will be nothing to reflect. It employs multispectral or hyperspectral sensors that measure the acquired quantity with multiple band combinations. These combinations differ by the number of channels (two wavelengths and more). The scope of bands (visible, IR, NIR, TIR, microwave).
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/b7aabdc2-5f15-4b3a-9caf-1d3368105086)">
+</br>
+</p>
+
+Image credit: [mdpi](https://www.mdpi.com/2072-4292/12/18/3053)
+
+### Remote Sensing Software
+- [eCognition](http://www.ecognition.com/suite/ecognition-developer) - A powerful development environment for object-based image analysis.
+- [ENVI](https://www.harris.com/solution/envi) :star2: - A geospatial imagery analysis and processing software.
+- [ERDAS IMAGINE](https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine) :star2: - A geospatial imagery analysis and processing software.
+- [Google Earth](https://www.google.com/earth/) - A computer program that renders a 3D representation of Earth based on satellite imagery.
+- [Google Earth Studio](https://www.google.com/earth/studio/) - An animation tool for Google Earth’s satellite and 3D imagery.
+- [GRASS GIS](https://grass.osgeo.org/) - A free and open source GIS software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
+- [Opticks](https://opticks.org/) - An expandable remote sensing and imagery analysis software platform that is free and open source.
+- [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source project for state-of-the-art remote sensing, including a fast image viewer, apps callable from Bash, Python or QGIS, and a powerful C++ API.
+- [PANOPLY](https://www.giss.nasa.gov/tools/panoply/)- Panoply plots geo-referenced and other arrays from netCDF, HDF, GRIB, and other datasets.
+- [PCI Geomatica](http://www.pcigeomatics.com/software/geomatica/professional) - A remote sensing desktop software package for processing earth observation data.
+- [SNAP](http://step.esa.int/main/toolboxes/snap/) - A common architecture for all Sentinel Toolboxes.
+
   
 ## Neural Radiance Field (NeRF)
 
