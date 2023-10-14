@@ -28,6 +28,13 @@
     - [Photogrammetry Techniques](#photogrammetry-techniques)
     - [Geographic Information System](#geographic-information-system)
     - [Remote Sensing ](#remote-sensing)
+    - [Point Cloud Processing](#point-cloud-processing)
+    - [LiDAR](#lidar)
+        - [Basic matching algorithms](#basic-matching-algorithms)
+        - [Semantic segmentation](#semantic-segmentation)
+        - [Ground segmentation](#ground-segmentation)
+        - [Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM](#simultaneous-localization-and-mapping-slam-and-lidar-based-odometry-and-or-mapping-loam)
+        - [Object detection and object tracking](#object-detection-and-object-tracking)
     - [Neural Radiance Field (NeRF)](#neural-radiance-field-nerf)
     - [Certifications & Courses](https://github.com/mikeroyal/Photogrammetry-Guide#Certifications--Courses)
     - [Books/eBooks](https://github.com/mikeroyal/Photogrammetry-Guide#BookseBooks)
@@ -173,6 +180,161 @@ Image credit: [mdpi](https://www.mdpi.com/2072-4292/12/18/3053)
 - [PANOPLY](https://www.giss.nasa.gov/tools/panoply/)- Panoply plots geo-referenced and other arrays from netCDF, HDF, GRIB, and other datasets.
 - [PCI Geomatica](http://www.pcigeomatics.com/software/geomatica/professional) - A remote sensing desktop software package for processing earth observation data.
 - [SNAP](http://step.esa.int/main/toolboxes/snap/) - A common architecture for all Sentinel Toolboxes.
+
+
+## Point Cloud Processing
+
+[Back to the Top](#table-of-contents)
+
+[Point Cloud Processing](https://www.mathworks.com/discovery/point-cloud.html) is a huge number of tiny data points that exist in three dimensions(3D). If you could spit those points out of a scanner they would appear as a cloud. This can be used for mapping, perception, and navigation in robotics and autonomous systems. It can also be used in augmented reality (AR) and virtual reality (VR) applications.
+
+**Functions of point cloud processing software include:**
+
+  - Manual editing of the point cloud.
+  - Automatic cleanup and filtering.
+  - Offloading tasks to the cloud.
+  - Rendering.
+  - Point distance calculation.
+  - Registration.
+  - Conversion to mesh.
+  - Conversation to [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline).
+  
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/eb6ace00-39c5-4a4b-b482-424faa208a74">
+  <br />
+</p>
+
+Point Cloud Processing & Data Management. Image credit: [H2H Associates](http://h2hassociates.com/services/point-cloud-processing-data-management/)
+
+### Point Cloud Processing Software 
+
+- [**CloudCompare**](https://www.cloudcompare.org/) is a 3D point cloud processing software. It can also handle triangular meshes and calibrated images. 
+- [**PCL - Point Cloud Library**](https://pointclouds.org/) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
+- [**Leica Cyclone**](https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone?redir=w226) is the market-leading point cloud processing software. It is a family of software modules that provides the widest set of work process options for 3D laser scanning projects in engineering, surveying, construction and related applications. 
+- [**FARO SCENE**](https://www.faro.com/en/Products/Software/SCENE-Software) is a software that allows you to capture, process and register real-world objects and environments in 3D point cloud. You can create stunning visualizations, share and collaborate, and access virtual reality -LRB- VR -RRB- views of your scans.
+- [**Autodesk ReCap**](https://www.autodesk.com/support/technical/product/recap) is a software that let's you create accurate 3D models with reality capture using laser scanning. This software, which lets you convert reality into a 3D model or 2D drawing, actually comes in two flavors: ReCap and ReCap Pro. 
+- [**Trimble RealWorks**](https://geospatial.trimble.com/en/products/software/trimble-realworks) is a powerful office software suite to integrate 3D point cloud and survey data. It effectively manages large scan datasets to register, analyze, model, collaborate and produce compelling deliverables. 
+- [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++/Python BSD library for translating and manipulating point cloud data.
+- [**libLAS**](http://liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format (Legacy. Replaced by PDAL).
+- [**entwine**](https://github.com/connormanning/entwine/) is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
+- [**PotreeConverter**](https://github.com/potree/PotreeConverter) is another data organisation library, generating data for use in the Potree web viewer.
+- [**lidR**](https://github.com/Jean-Romain/lidR) is a R package for Airborne LiDAR Data Manipulation and Visualization for Forestry Applications. 
+- [**pypcd**](https://github.com/dimatura/pypcd) is a Python module to read and write point clouds stored in the PCD file format, used by the Point Cloud Library.
+- [**Open3D**](https://github.com/intel-isl/Open3D) is an open-source library that supports rapid development of software that deals with 3D data. It has Python and C++ frontends.
+- [**cilantro**](https://github.com/kzampog/cilantro) is a Lean and Efficient Library for Point Cloud Data Processing (C++).
+- [**PyVista**](https://github.com/pyvista/pyvista/) is a 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit(VTK).
+- [**pyntcloud**](https://github.com/daavoo/pyntcloud) is a Python library for working with 3D point clouds.
+- [**pylas**](https://github.com/tmontaigu/pylas) Reading Las (lidar) in Python.
+- [**PyTorch**](https://github.com/rusty1s/pytorch_geometric) PyTorch Geometric (PyG) is a geometric deep learning extension library for PyTorch.
+- [**Paraview**](http://www.paraview.org/) is a Open-source, multi-platform data analysis and visualization application. 
+- [**MeshLab**](http://meshlab.sourceforge.net/) is a Open source, portable, and extensible system for the processing and editing of unstructured 3D triangular meshes
+- [**OpenFlipper**](http://www.openflipper.org/) is a Open Source Geometry Processing and Rendering Framework.
+- [**PotreeDesktop**](https://github.com/potree/PotreeDesktop) is a desktop/portable version of the web-based point cloud viewer [**Potree**](https://github.com/potree/potree)
+- [**3d-annotation-tool**](https://github.com/StrayRobots/3d-annotation-tool) is a lightweight desktop application to annotate pointclouds for machine learning.
+
+## LiDAR
+
+[Back to the Top](#table-of-contents)
+   
+[Light Detection and Ranging (LiDAR)](https://www.usgs.gov/news/earthword-lidar) is a technology used to create high-resolution models of ground elevation with a vertical accuracy of 10 centimeters (4 inches). Lidar equipment, which includes a laser scanner, a Global Positioning System (GPS), and an Inertial Navigation System (INS), is typically mounted on a small aircraft. The laser scanner transmits brief pulses of light to the ground surface. Those pulses are reflected or scattered back and their travel time is used to calculate the distance between the laser scanner and the ground.  Lidar data is initially collected as a “point cloud” of individual points reflected from everything on the surface, including structures and vegetation. To produce a “bare earth” Digital Elevation Model (DEM), structures and vegetation are stripped away.
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/121950840-fe9efa80-cd0e-11eb-9a12-57c4799d63b5.png">
+  <br />
+</p>
+
+**3D Data Visualization of Golden Gate Bridge. Source: [USGS](https://www.usgs.gov/core-science-systems/ngp/tnm-delivery)**
+
+[Mola](https://docs.mola-slam.org/latest/) is a Modular Optimization framework for Localization and mApping (MOLA).
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/121950850-01015480-cd0f-11eb-9fa6-1f93d6d87cd1.gif">
+  <br />
+</p>
+
+**3D LiDAR SLAM from KITTI dataset. Source: [MOLA](https://docs.mola-slam.org/latest/demo-kitti-lidar-slam.html)**
+
+
+ ### Basic matching algorithms
+- [Iterative closest point (ICP) ](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications (ICP).
+  - [GitHub repository](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
+  - [GitHub repository](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher, a modular library implementing the ICP algorithm.
+
+- [Normal distributions transform](https://www.youtube.com/watch?v=0YV4a2asb8Y) - More recent massively-parallel approach to feature matching (NDT).
+- [KISS-ICP](https://www.youtube.com/watch?v=kMMH8rA1ggI) - In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way.
+  - [GitHub repository](https://github.com/PRBonn/kiss-icp)
+  
+
+### Semantic segmentation
+- [RangeNet++](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
+  - [GitHub repository](https://github.com/PRBonn/rangenet_lib)
+  - [YouTube video](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
+- [PolarNet](https://arxiv.org/pdf/2003.14032.pdf) - An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.
+  - [GitHub repository](https://github.com/edwardzhou130/PolarSeg)
+  - [YouTube video](https://www.youtube.com/watch?v=iIhttRSMqjE)
+- [Frustum PointNets](https://arxiv.org/pdf/1711.08488.pdf) - Frustum PointNets for 3D Object Detection from RGB-D Data.
+  - [GitHub repository](https://github.com/charlesq34/frustum-pointnets)
+- [Study of LIDAR Semantic Segmentation](https://larissa.triess.eu/scan-semseg/) - Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study IV 2020.
+  - [Paper](https://arxiv.org/abs/2004.11803)
+  - [GitHub repository](http://ltriess.github.io/scan-semseg)
+- [LIDAR-MOS](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
+  - [GitHub repository](https://github.com/PRBonn/LiDAR-MOS)
+  - [YouTube video](https://www.youtube.com/watch?v=NHvsYhk4dhw)
+- [SuperPoint Graph](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
+  - [GitHub repository](https://github.com/PRBonn/LiDAR-MOS)
+  - [YouTube video](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
+- [RandLA-Net](https://arxiv.org/pdf/1911.11236.pdf) - Efficient Semantic Segmentation of Large-Scale Point Clouds
+  - [GitHub repository](https://github.com/QingyongHu/RandLA-Net)
+  - [YouTube video](https://www.youtube.com/watch?v=Ar3eY_lwzMk)
+- [Automatic labelling](https://arxiv.org/pdf/2108.13757.pdf) - Automatic labelling of urban point clouds using data fusion
+  - [GitHub repository](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing)
+  - [YouTube video](https://www.youtube.com/watch?v=qMj_WM6D0vI)
+
+### Ground segmentation
+- [Plane Seg](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
+  - [YouTube video](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
+- [LineFit Graph](https://ieeexplore.ieee.org/abstract/document/5548059)- Line fitting-based fast ground segmentation for horizontal 3D LiDAR data
+  - [GitHub repository](https://github.com/lorenwel/linefit_ground_segmentation)
+- [Patchwork](https://arxiv.org/pdf/2108.05560.pdf)- Region-wise plane fitting-based robust and fast ground segmentation for 3D LiDAR data 
+  - [GitHub repository](https://github.com/LimHyungTae/patchwork)
+  - [YouTube video](https://www.youtube.com/watch?v=rclqeDi4gow)
+- [Patchwork++](https://arxiv.org/pdf/2207.11919.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
+  - [GitHub repository](https://github.com/url-kaist/patchwork-plusplus-ros)
+  - [YouTube video](https://www.youtube.com/watch?v=fogCM159GRk)
+
+
+### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
+- [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
+- [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
+  - [YouTube video](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
+- [Cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+  - [YouTube video](https://www.youtube.com/watch?v=29Knm-phAyI)
+- [SuMa++](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
+  - [GitHub repository](https://github.com/PRBonn/semantic_suma/)
+  - [YouTube video](https://youtu.be/uo3ZuLuFAzk)
+- [OverlapNet](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
+  - [GitHub repository](https://github.com/PRBonn/OverlapNet)
+  - [YouTube video](https://www.youtube.com/watch?v=YTfliBco6aw)
+- [LIO-SAM](https://arxiv.org/pdf/2007.00258.pdf) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
+  - [GitHub repository](https://github.com/TixiaoShan/LIO-SAM)
+  - [YouTube video](https://www.youtube.com/watch?v=A0H8CoORZJU)
+- [Removert](http://ras.papercept.net/images/temp/IROS/files/0855.pdf) - Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.
+  - [GitHub repository](https://github.com/irapkaist/removert)
+  - [YouTube video](https://www.youtube.com/watch?v=M9PEGi5fAq8)
+
+### Object detection and object tracking
+- [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976) - By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.
+  - [YouTube video](https://www.youtube.com/watch?v=wLxIAwIL870)
+  - [GitHub repository](https://github.com/peiyunh/opcseg)
+- [Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection :newspaper:](https://arxiv.org/pdf/1809.05590.pdf) - By Di Feng, Lars Rosenbaum, Fabian Timm, Klaus Dietmayer. 30th IEEE Intelligent Vehicles Symposium, 2019.
+  - [YouTube video](https://www.youtube.com/watch?v=2DzH9COLpkU)
+- [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.
+  - [YouTube video](https://www.youtube.com/watch?v=497OF-otY2k)
+  - [GitHub repository](https://github.com/peiyunh/WYSIWYG)
+- [urban_road_filter](https://doi.org/10.3390/s22010194)-
+Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
+  - [GitHub repository](https://github.com/jkk-research/urban_road_filter)
+  - [YouTube video](https://www.youtube.com/watch?v=T2qi4pldR-E)
 
   
 ## Neural Radiance Field (NeRF)
