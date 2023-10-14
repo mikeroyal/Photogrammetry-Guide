@@ -304,7 +304,7 @@ Point Cloud Processing & Data Management. Image credit: [H2H Associates](http://
 
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
-- [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
+- [LOAM J. Zhang and S. Singh](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
 - [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
   - [YouTube video](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
 - [Cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
@@ -323,12 +323,12 @@ Point Cloud Processing & Data Management. Image credit: [H2H Associates](http://
   - [YouTube video](https://www.youtube.com/watch?v=M9PEGi5fAq8)
 
 ### Object detection and object tracking
-- [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976) - By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.
+- [Learning to Optimally Segment Point Clouds](https://arxiv.org/abs/1912.04976) - By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.
   - [YouTube video](https://www.youtube.com/watch?v=wLxIAwIL870)
   - [GitHub repository](https://github.com/peiyunh/opcseg)
-- [Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection :newspaper:](https://arxiv.org/pdf/1809.05590.pdf) - By Di Feng, Lars Rosenbaum, Fabian Timm, Klaus Dietmayer. 30th IEEE Intelligent Vehicles Symposium, 2019.
+- [Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection](https://arxiv.org/pdf/1809.05590.pdf) - By Di Feng, Lars Rosenbaum, Fabian Timm, Klaus Dietmayer. 30th IEEE Intelligent Vehicles Symposium, 2019.
   - [YouTube video](https://www.youtube.com/watch?v=2DzH9COLpkU)
-- [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.
+- [What You See is What You Get: Exploiting Visibility for 3D Object Detection](https://arxiv.org/pdf/1912.04986.pdf) - By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.
   - [YouTube video](https://www.youtube.com/watch?v=497OF-otY2k)
   - [GitHub repository](https://github.com/peiyunh/WYSIWYG)
 - [urban_road_filter](https://doi.org/10.3390/s22010194)-
