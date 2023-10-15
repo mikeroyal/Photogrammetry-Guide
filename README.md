@@ -26,6 +26,7 @@
 1. [Getting Started with Photogrammetry](https://github.com/mikeroyal/Photogrammetry-Guide#getting-started-with-photogrammetry)
     - [Types of Photogrammetry](#types-of-photogrammetry)
     - [Photogrammetry Techniques](#photogrammetry-techniques)
+    - [Types of Drones](#drones)
     - [Geographic Information System](#geographic-information-system)
     - [Remote Sensing ](#remote-sensing)
     - [Point Cloud Processing](#point-cloud-processing)
@@ -33,7 +34,7 @@
         - [Basic matching algorithms](#basic-matching-algorithms)
         - [Semantic segmentation](#semantic-segmentation)
         - [Ground segmentation](#ground-segmentation)
-        - [Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM](#simultaneous-localization-and-mapping-slam-and-lidar-based-odometry-and-or-mapping-loam)
+        - [Simultaneous localization, mapping, SLAM/LIDAR-based odometry; or mapping LOAM](#simultaneous-localization-and-mapping-slam-and-lidar-based-odometry-and-or-mapping-loam)
         - [Object detection and object tracking](#object-detection-and-object-tracking)
     - [Neural Radiance Field (NeRF)](#neural-radiance-field-nerf)
     - [Certifications & Courses](https://github.com/mikeroyal/Photogrammetry-Guide#Certifications--Courses)
@@ -115,6 +116,72 @@ Image credit: Stereo Photogrammetry Capture. [HELImetrex](https://www.helimetrex
   * [Post Processing Kinematic (PPK)](https://docs.emlid.com/reach/tutorials/basics/ppk-introduction/) is an alternative a satellite navigation technique to Real-Time Kinematic (RTK) used in surveying that corrects the location data after it is collected and uploaded. This technique is commonly used in drone mapping and land surveying.
   * [Gaussian Splatting](https://huggingface.co/blog/gaussian-splatting) is a rasterization technique described in 3D Gaussian Splatting for Real-Time Radiance Field Rendering that allows real-time rendering of photorealistic scenes learned from small samples of images. [Polycam Gaussian splat viewer and creator](https://poly.cam/gaussian-splatting)
  * [DynIBaR (Neural Dynamic Image-Based Rendering)](https://dynibar.github.io/) is a new method that generates photorealistic free-viewpoint renderings from a single video of a complex, dynamic scene. It can be used to generate a range of video effects, such as “bullet time” effects (where time is paused and the camera is moved at a normal speed around a scene), video stabilization, depth of field, and slow motion, from a single video taken with a phone’s camera. [DynIBaR: Space-time view synthesis from videos of dynamic scenes | Google Research](https://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html)
+
+
+## Drones
+
+[Back to the Top](#table-of-contents)
+
+**Links for Drone photography:**
+
+  * [Drone photography: A beginner's guide - Adobe](https://www.adobe.com/creativecloud/photography/discover/drone-photography.html)
+  * [Drone Photography: Beginner's Guide to Getting Started - Droneblog](https://www.droneblog.com/drone-photography/)
+  * [The complete beginner's guide to drone photography - Canva](https://www.canva.com/learn/the-complete-beginners-guide-to-drone-photography/)
+  * [Drone Photography: The Definitive Guide (2023) | PhotoPills](https://www.photopills.com/articles/drone-photography-guide)
+  * [19 Drone Photography Tips to Improve Your Aerial Shots in 2023](https://shotkit.com/drone-photography-tips/)
+  * [Drone photography: Tips and tricks | Space](https://www.space.com/guide-to-drone-photography)
+
+A drone is basically an Unmanned Aerial Vehicle (UAV). Before the rise in consumer interest in UAVs, the word “drone” was primarily used to refer to the UAVs used by the military.
+
+Now, though, intelligent quadcopters that have UAV-like features are more popular among consumers than ever before. And while they technically aren’t as advanced as military drones, we refer to them as ”drones” because they are similar in nature (both allow you to operate an aerial vehicle in order to perform a particular task, which, in the case of consumer drones, is typically to shoot video or capture still images).
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/0e59e19d-fbce-490e-8876-de9deaac6272">
+</br>
+</p>
+
+There are different types of drones for all kinds of situations, so make sure to consider the main purpose for your drone purchase. Even though most drones fall under the categories of consumer or professional grade drones, there are now UAVs geared towards traveling and selfies.
+
+ * **Camera drones:** These drones might range from $100 to $1000 which have exceptional features that make such drones a market leader in the world of professional drones. They also have Obstacle avoidable sensors.
+
+ * **Compact drones:** These drones are specially designed for panoramic images and landscape shoot. The best feature of compact drones is that they have an ability to change the image format from JEPG to raw images. Raw images have more details and can produce 4k quality of the picture and videos. For example, DJI inspire 2 which falls in the category of professional drones has a speed of 60+ miles per hour (97+ kilometers per hour) and has a dual battery backup of  up to 30 minutes. Use these drones in the places where you cannot step in and take the pictures that you don’t need to crop or it can adversely affect the quality of the picture.
+
+**The different among RTF, BNF and ARF:**
+
+  * **RTF stands for Ready-To-Fly** - Usually an RTF quadcopter doesn’t require any assembly or setup, but you may have to do some simple things like charge up the battery, install the propellers or bind the controller to the quadcopter (get them talking to each other).
+
+  * **BNF stands for Bind-And-Fly** - A BNF quadcopter usually comes completely assembled, but without a controller. With BNF models, you’ll have to use the controller that you already have (if it’s compatible) or find a controller sold separately. One thing you should know is that just because a transmitter and receiver are on the same frequency that doesn’t mean that they’ll work together.
+
+  * **ARF stands for Almost-ready-to-fly** - ARF Drones are usually like quadcopter kits. They usually don’t come with a transmitter or receiver and might require partial assembly. An ARF drone kit might also leave out components like motors, ESCs, or even the flight controller and battery. The definition of an ARF drone kit is very broad, so whenever you see ARF in the title, you should read the description thoroughly.
+
+### Taking care of legal consideration
+
+Before you get started with your drone (I know you must be excited) make sure you are updated with all the rules and regulations for what you can and what you cannot do with the drone, the restricted areas and the permission to fly near any private property.
+
+ * Various countries have their own rules and regulations for flying drones. For Example in the UK it’s Civil Aviation Authority (CAA) that restricts you from flying drones near airports or aircraft, keep the drone below 400 feet etc. Further you can refer to the [UK link](http://dronesafe.uk/drone-code/)
+
+ * In the US it’s federal Aviation Administration (FAA) which has a code of not to fly above a group of people, never fly under influence of drugs and alcohol. Please refer to [here](https://www.faa.gov/uas/getting_started/fly_for_fun/)
+
+ * Similarly, for various countries you have strict rules that need to be taken care of before making a decision of buying a drone. So, save yourself from getting disheartened of the fact that you cannot achieve the purpose for what you bought this drone. 
+
+### Improve the drone flying skills
+
+ A lot of people think that drones are hard to fly, but the truth is, they’re really not. Anyone capable of using an [iPhone](https://apps.apple.com/us/app/dronedeploy-flight-app/id971358101) or [Android](https://play.google.com/store/apps/details?id=com.dronedeploy.beta) device is more than capable of flying a drone. However, this does not mean that drones are fool proof. Even the most advanced drones require some general knowledge if you want to avoid crashing or worse, losing your drone forever. So you need to improve your flying drone skills.
+ 
+### Where To Buy A Drone?
+
+If you don’t know where to buy a drone, don’t worry. There are tons of online stores for drones that will ship to just about any major country. If you’re buying toy drones, the best place to go is Amazon or others below: 
+
+ All of the main websites for buying drones.
+
+  * **[dji.com](https://www.dji.com/)**: The #1 in popularity and name.
+
+  * **[Amazon.com](https://www.amazon.com/drones/s?k=drones)**: A little bit of everything.
+
+  * **[horizonhobby.com](https://www.horizonhobby.com/helicopters/drones/)**: The leader in radio control airplanes, cars, quads, radios and more.
+
+  * **[amainhobbies.com](https://www.amainhobbies.com/drones/c3347)**: The great selection of RC Hobby.
+
 
 ## Geographic Information System
 
