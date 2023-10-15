@@ -101,9 +101,19 @@ Image credit: Stereo Photogrammetry Capture. [HELImetrex](https://www.helimetrex
  
  * [Digital Outcrop Model (DOM)](https://en.wikipedia.org/wiki/Digital_outcrop_model) is a digital 3D representation of the outcrop surface, mostly in a form of textured polygon mesh. This allows for interpretation and reproducible measurement of different geological features, orientation of geological surfaces, width, and thickness of layers.
  
- * [Digital Elevation Model (DEM)](https://www.usgs.gov/faqs/what-digital-elevation-model-dem) is a digital 3D representation of the bare ground (bare earth) topographic surface of the Earth excluding trees, buildings, and any other surface objects. 
- 
- * [Digital Terrain Model (DTM)](https://gisgeography.com/dem-dsm-dtm-differences/) is a digital 3D representation of the terrain surface using a set of heights over 2D points residing on a reference surface.
+ * [DEM (Digital Elevation Models)](https://gisgeography.com/dem-dsm-dtm-differences/) is a bare-earth raster grid referenced to a vertical datum. When you filter out non-ground points such as bridges and roads, you get a smooth digital elevation model. The built (power lines, buildings, and towers) and natural (trees and other types of vegetation) aren’t included in a DEM.
+    
+ * [DSM (Digital Surface Models)](https://geodetics.com/dem-dsm-dtm-digital-elevation-models/) is a process that captures both the natural and built/artificial features of the environment,
+    
+* [DTM (Digital Terrain Models)](https://gisgeography.com/dem-dsm-dtm-differences/) is a process that has two definitions depending on where you live. [USGS LiDAR Base Specification](http://pubs.usgs.gov/tm/11b4/pdf/tm11-B4.pdf)
+
+   - In some countries, a DTM is actually synonymous with a DEM. This means that a DTM is simply an elevation surface representing the bare earth referenced to a common vertical datum.
+    
+   - In the United States and other countries, a DTM has a slightly different meaning. A DTM is a vector data set composed of regularly spaced points and natural features such as ridges and breaklines. A DTM augments a DEM by including linear features of the bare-earth terrain.
+
+ * [TIN (Triangular Irregular Networks)](https://desktop.arcgis.com/en/arcmap/latest/manage-data/tin/fundamentals-of-tin-surfaces.htm) is a representation of a continuous surface consisting entirely of triangular facets (a triangle mesh ), used mainly as Discrete Global Grid in primary elevation modeling. TINs are a form of vector-based digital geographic data and are constructed by triangulating a set of vertices (points). The vertices are connected with a series of edges to form a network of triangles. There are different methods of interpolation to form these triangles, such as Delaunay triangulation or distance ordering.
+    
+ * [Canopy Height Model (CHM)](https://geodetics.com/dem-dsm-dtm-digital-elevation-models/) is a separate model derived from elevation data in the point cloud. In forested areas, the difference between the DSM and the DEM can be viewed as CHM, representing the height of trees in the area above ground-level (see figure above). Software utilizing CHMs can also derive individual tree data, such as crown diameter, crown area and tree boundaries. 
 
  * [Ground Control Points (GCPs)](https://www.usgs.gov/landsat-missions/ground-control-points) is a technique with known real-world coordinates that can be clearly identified in an image. GCPs are used in the orthorectification process to augment the geometric parameters embedded in the raw image and improve the accuracy of the resulting orthorectification. 
  
