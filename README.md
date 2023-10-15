@@ -144,7 +144,7 @@ There are different types of drones for all kinds of situations, so make sure to
 
  * **Camera drones:** These drones might range from $100 to $1000 which have exceptional features that make such drones a market leader in the world of professional drones. They also have Obstacle avoidable sensors.
 
- * **Compact drones:** These drones are specially designed for panoramic images and landscape shoot. The best feature of compact drones is that they have an ability to change the image format from JEPG to raw images. Raw images have more details and can produce 4k quality of the picture and videos. For example, DJI inspire 2 which falls in the category of professional drones has a speed of 60+ miles per hour (97+ kilometers per hour) and has a dual battery backup of  up to 30 minutes. Use these drones in the places where you cannot step in and take the pictures that you don’t need to crop or it can adversely affect the quality of the picture.
+ * **Compact drones:** These drones are specially designed for panoramic images and landscape shoot. The best feature of compact drones is that they have an ability to change the image format from JEPG to raw images. Raw images have more details and can produce 4k quality of the picture and videos. For example, [DJI Inspire 2](https://www.dji.com/inspire-2), which falls in the category of professional drones has a speed of 60+ miles per hour (97+ kilometers per hour) and has a dual battery backup of up to 30 minutes. Use these drones in the places where you cannot step in and take the pictures that you don’t need to crop or it can adversely affect the quality of the picture.
 
 **The different among RTF, BNF and ARF:**
 
