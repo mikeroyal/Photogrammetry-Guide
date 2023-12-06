@@ -26,6 +26,7 @@
 1. [Getting Started with Photogrammetry](https://github.com/mikeroyal/Photogrammetry-Guide#getting-started-with-photogrammetry)
     - [Types of Photogrammetry](#types-of-photogrammetry)
     - [Photogrammetry Techniques](#photogrammetry-techniques)
+    - [Cameras For Photogrammetry](#cameras)
     - [Types of Drones](#drones)
     - [Geographic Information System](#geographic-information-system)
     - [Remote Sensing ](#remote-sensing)
@@ -127,6 +128,86 @@ Image credit: Stereo Photogrammetry Capture. [HELImetrex](https://www.helimetrex
   * [Gaussian Splatting](https://huggingface.co/blog/gaussian-splatting) is a rasterization technique described in 3D Gaussian Splatting for Real-Time Radiance Field Rendering that allows real-time rendering of photorealistic scenes learned from small samples of images. [Polycam Gaussian splat viewer and creator](https://poly.cam/gaussian-splatting)
  * [DynIBaR (Neural Dynamic Image-Based Rendering)](https://dynibar.github.io/) is a new method that generates photorealistic free-viewpoint renderings from a single video of a complex, dynamic scene. It can be used to generate a range of video effects, such as “bullet time” effects (where time is paused and the camera is moved at a normal speed around a scene), video stabilization, depth of field, and slow motion, from a single video taken with a phone’s camera. [DynIBaR: Space-time view synthesis from videos of dynamic scenes | Google Research](https://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html)
 
+## Cameras
+
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/f2189325-c52b-40c2-867d-1b859f059ede">
+</br>
+DJI Zenmuse P1 Full-frame 45MP camera.
+</p>
+
+**Links to Helpful Resources:**
+
+ * A great resource for everything to do with cameras: https://www.dpreview.com/.
+ * [Automatic 360° HDRI camera for photogrammetry | Civetta - Weiss AG](https://weiss-ag.com/civetta360camera/)
+ * [The Best Photogrammetry Solutions in 2023 - XR Today](https://www.xrtoday.com/mixed-reality/the-best-photogrammetry-solutions-in-2023/)
+ * [Low-Cost Cameras for Photogrammetry and Measurement (Price range:$750 and $1200)](https://www.photomodeler.com/low-cost-cameras-for-photogrammetry/)
+ * [Which Camera to Use with Photogrammetry and PhotoModeler](https://www.photomodeler.com/products/about_cameras/)
+ * [How To Pick The Best Camera For Drone Photogrammetry](https://www.heliguy.com/blogs/posts/how-to-pick-the-best-camera-for-drone-photogrammetry)
+ * [Best Camera For Photogrammetry In 2023 (Top 10 Models) - GetPhotography](https://getphotokits.com/best-camera-for-photogrammetry/)
+ 
+
+#### General camera-type recommendations
+
+**Here are some categories in which you should start your research:**
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/2ab5e909-e5bc-4994-bee8-29f3f26557a8">
+</br>
+Camera Photogrammetry Nikon D300/5mm precision GPS setup for VORTEX2. Image credit: NOAA
+</p>
+
+#### Fully automatic operation:
+
+  * **Default:** high-end phone.
+
+  * **Some more flexibility in a zoom range:** high-end compact camera (as in the Sony RX100 line).
+
+  * **More flexibility, including distant subjects:** high-end superzoom camera (as in the Sony RX10 and Panasonic FZ1000 lines).
+
+  * **Extremely distant subjects in daylight:** consumer superzoom camera (as in the Nikon P line, Panasonic FZ80, etc.).
+
+#### Manual/creative control:
+
+  * Default: mirrorless camera.
+
+  * Cheaper alternative (no mirrorless camera that suits your needs is available under budget): DSLR.
+
+    If you’re absolutely sure that’s the only lens you’ll need: fixed prime lens camera (as in the [Fujifilm X100](https://fujifilm-x.com/products/cameras/x100v/) and [Ricoh GR lines](https://us.ricoh-imaging.com/product/gr-iii/)), high-end compact camera or high-end superzoom camera.
+
+#### Key concepts and terminology
+
+There are some concepts, terms and features of a camera that you’ll need to learn about to really understand camera reviews and see how one camera differs from another. The following is a list of such terms for you to look up if needed.
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Photogrammetry-Guide/assets/45159366/af3bd5c1-32e1-45fe-9e18-bbf413d3cd56">
+</br>
+Camera Basics. Image credit: Geodetic Systems, Inc
+</p>
+
+  * Exposure, noise, dynamic range (SDR and HDR).
+
+  * **Camera design:** interchangeable-lens cameras and fixed-lens cameras, mirrorless and DSLR.
+
+  * **Image sensor:** size and surface area, resolution.
+
+  * **Lens:** focal length and angle/field of view, maximum aperture, lens mount and format coverage.
+
+  * Autofocus.
+
+  * Continuous/burst shooting, buffer depth.
+
+  * Viewfinder and display.
+
+  * Image stabilization.
+
+  * Weather resistance.
+
+Remember a camera’s age is irrelevant. Cameras don’t age like smart phones or computers do, because they have no increasingly demanding software to keep up with. So as long as a camera is in good working order, it should work as well as it did when it was brand new.
+
+Make sure to shop at well accepted and well established in the camera market, even at the high end. Try reputable outlets ([KEH](https://www.keh.com/) and [mpb](https://www.mpb.com/)) and the used sections on big retailers ([B&H](https://www.bhphotovideo.com/) and [Adorama](https://www.adorama.com/) in the US) and local camera stores. You can also find refurbished cameras sold directly by the manufacturers’ distributors. 
 
 ## Drones
 
