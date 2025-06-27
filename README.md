@@ -8,7 +8,6 @@
          <img alt="followers" title="Follow me on Github for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2024?style=for-the-badge)
-![Last-Commit](https://img.shields.io/github/last-commit/mikeroyal/photogrammetry-guide?style=for-the-badge)
 
          
 #### A guide covering Photogrammetry including the applications, libraries and tools that will make you a better and more efficient Photogrammetry development.
