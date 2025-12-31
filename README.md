@@ -206,7 +206,7 @@ Camera Basics. Image credit: Geodetic Systems, Inc
 
 Remember a camera’s age is irrelevant. Cameras don’t age like smart phones or computers do, because they have no increasingly demanding software to keep up with. So as long as a camera is in good working order, it should work as well as it did when it was brand new.
 
-Make sure to shop at well accepted and well established in the camera market, even at the high end. Try reputable outlets ([KEH](https://www.keh.com/) and [mpb](https://www.mpb.com/)) and the used sections on big retailers ([B&H](https://www.bhphotovideo.com/) and [Adorama](https://www.adorama.com/) in the US) and local camera stores. You can also find refurbished cameras sold directly by the manufacturers’ distributors. 
+Make sure to shop at well accepted and well established in the camera market, even at the high end. Try reputable outlets ([KEH](https://www.keh.com/) [mpb](https://www.mpb.com/) [GearFocus](https://www.gearfocus.com/) and [UsedPhotoPro](https://www.usedphotopro.com/)) and the used sections on big retailers ([B&H](https://www.bhphotovideo.com/) and [Adorama](https://www.adorama.com/) in the US) and local camera stores. You can also find refurbished cameras sold directly by the manufacturers’ distributors. 
 
 ## Drones
 
